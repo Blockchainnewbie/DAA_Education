@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-29T14:00:00+02:00
+
+====== Montag 29 Jul 2024 ======
+Office Grundlagen
+
+	Aufgabe zur Formatierung in MS Word
+	Excel Einführung
+	
+	
