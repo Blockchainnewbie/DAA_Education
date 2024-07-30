@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-30T10:48:40+02:00
+
+====== Donnerstag 04 Jul 2024 ======
+IT-Grundlagen
+	Rechnerarchitektur
+	Von-Neumann
+	Hardware
+	Aufgabe: Erstellen eines Angebots für Drucker
