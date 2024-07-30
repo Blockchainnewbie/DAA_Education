@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-30T10:50:15+02:00
+
+====== Mittwoch 03 Jul 2024 ======
+MS-Office
+	Powerpoint Präsentation
+	Word Grundlagen
