@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-07-31T11:10:38+02:00
+
+====== Mittwoch 31 Jul 2024 ======
+
+	MS Excel
+		Besprechung der Aufgabe vom Vortag
+		Wenn Dann Funktionen
+		Boolesche Algebra
+		Operatoren
+
