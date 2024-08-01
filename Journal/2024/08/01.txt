@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-01T08:07:03+02:00
+
+====== Donnerstag 01 Aug 2024 ======
+IT-Grundlagen
+
+	
