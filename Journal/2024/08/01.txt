@@ -5,4 +5,7 @@ Creation-Date: 2024-08-01T08:07:03+02:00
 ====== Donnerstag 01 Aug 2024 ======
 IT-Grundlagen
 
+	Einrichtung eines Bildschirmarbeitsplatzes
+	Monitore
+	Von-Neumann-Architektur
 	
