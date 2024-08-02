@@ -8,4 +8,4 @@ IT-Grundlagen
 	Einrichtung eines Bildschirmarbeitsplatzes
 	Monitore
 	Von-Neumann-Architektur
-	
+	Aufgabe: Angebot für Monitore erstellen
