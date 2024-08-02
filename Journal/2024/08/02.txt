@@ -6,4 +6,5 @@ Creation-Date: 2024-08-02T11:38:52+02:00
 
 	Besprechung der Aufgabe zu Monitoren
 	Motherboards
+	PC Komplettzusammenbau
 	
