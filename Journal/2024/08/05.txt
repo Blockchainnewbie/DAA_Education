@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-05T09:26:52+02:00
+
+====== Montag 05 Aug 2024 ======
+
+	Excel Übung zum formatieren und anwenden von Formeln
