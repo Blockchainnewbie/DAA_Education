@@ -6,8 +6,8 @@ Creation-Date: 2024-08-09T10:07:48+02:00
 
 	Wiederholung der Aufgaben zu den Zahlensystemen
 	Datenspeicher
-	BIOS, Bootvorgang
-	UEFI
+	BIOS, Bootvorgang, MBR oder 
+	UEFI, GPT Entwicklung beider
 	Umrechnung von Einheiten
 	
 	
