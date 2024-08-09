@@ -5,8 +5,10 @@ Creation-Date: 2024-08-09T10:07:48+02:00
 ====== Freitag 09 Aug 2024 ======
 
 	Wiederholung der Aufgaben zu den Zahlensystemen
+	Datenspeicher
 	BIOS, Bootvorgang
-	UEFIm
+	UEFI
 	Umrechnung von Einheiten
+	
 	
 	
