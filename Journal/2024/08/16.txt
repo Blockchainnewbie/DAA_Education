@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-19T08:32:04+02:00
+
+====== Freitag 16 Aug 2024 ======
+
+	IT-Grundlagen
+		RAID-Systeme
+		
+
