@@ -5,3 +5,6 @@ Creation-Date: 2024-08-20T08:02:40+02:00
 ====== Dienstag 20 Aug 2024 ======
 
 	IT-Grundlagen
+		Backup Strategien
+		
+
