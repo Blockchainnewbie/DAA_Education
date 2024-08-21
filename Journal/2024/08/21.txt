@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-21T09:04:24+02:00
+
+====== Mittwoch 21 Aug 2024 ======
+
+	IT-Grunhdlagen
+		BEsprechung IHK Aufgaben
+		Sicherheitsziele
+		
+
