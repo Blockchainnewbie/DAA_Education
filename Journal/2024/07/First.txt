@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-22T15:06:38+02:00
+
+====== First ======
+Angelegt Donnerstag 22 August 2024
+

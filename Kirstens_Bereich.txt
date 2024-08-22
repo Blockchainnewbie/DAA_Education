@@ -5,4 +5,8 @@ Creation-Date: 2024-07-29T11:09:50+02:00
 ====== Kirstens Bereich ======
 Angelegt Montag 29 Juli 2024
 
+<<<<<<< HEAD
 H
+=======
+Hallo :)
+>>>>>>> eb855ffa00796b875ce09aeec61b8d9b4020972b
