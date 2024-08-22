@@ -6,7 +6,13 @@ Creation-Date: 2024-07-29T11:09:50+02:00
 Angelegt Montag 29 Juli 2024
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 H
 =======
 Hallo :)
 >>>>>>> eb855ffa00796b875ce09aeec61b8d9b4020972b
+=======
+Hallo ☺
+
+[[.\Backupstrategien.docx]]
+>>>>>>> 8e83f90cb69647f6a4878e3f20dad8312c77baab
