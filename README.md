@@ -1,15 +1,15 @@
 # DAA-Oberhausen-Summer24-Class
  Everything from the Summer Class of 2024
 
-<img src="https://github.com/Blockchainnewbie/Damago_FI21_Software_Developer_Class/blob/main/pictures/Github_Damago_Class_Logo.jfif">
+<img src="https://github.com/Blockchainnewbie/DAA_Education/blob/f7d16ece9d30c60520bbfec32c0d17e52452ead0/DAAGithub.jpg">
 
-<h2> Hey there! We`re the "Damago Software Developer Class FI21" of the year 2k24.</h2>
+<h2> Hey there! We`re the "DAA-Oberhausen-Summer Class 2024!
 
 <h3> 👨🏻‍💻 &nbsp;About Us </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at DAMAGO Essen Germany.
-- 💼 &nbsp; We are looking for an internship in spring 2025 in the Ruhr area.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at DAA-Oberhausen Germany.
+- 💼 &nbsp; We are looking for an internship in summer 2025 in the Ruhr area.
 - 🌱 &nbsp; We learn the latest technologies according to the new training plan of the Chamber of Industry and Commerce.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
