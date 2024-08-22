@@ -7,10 +7,10 @@ Angelegt Montag 29 Juli 2024
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-H
+
 =======
 Hallo :)
->>>>>>> eb855ffa00796b875ce09aeec61b8d9b4020972b
+>>>>>>>
 =======
 Hallo ☺
 
