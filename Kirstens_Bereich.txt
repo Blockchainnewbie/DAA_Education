@@ -15,4 +15,3 @@ Hallo :)
 Hallo ☺
 
 [[.\Backupstrategien.docx]]
->>>>>>> 8e83f90cb69647f6a4878e3f20dad8312c77baab
