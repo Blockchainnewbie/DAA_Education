@@ -8,3 +8,9 @@ Angelegt Montag 29 Juli 2024
 Hallo ☺
 
 [[.\Backupstrategien.docx]]
+[[.\Arten von Computern.docx]]
+[[.\Netzwerkspeicher Zusammenfassung.docx]]
+[[.\RAID Zusammenfassung.docx]]
+[[.\Wichtigste Teile der Peripherie Zusammenfassung.docx]]
+[[.\Zusammenfassung Hardware.docx]]
+[[.\Zusammenfassung Stellenwertsysteme.docx]]
