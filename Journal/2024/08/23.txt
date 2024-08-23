@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-23T14:37:40+02:00
+
+====== Freitag 23 Aug 2024 ======
+1. VM Konto Erstellung mit Rechten vergabe (Administrationen +/-, VM Rechte, .\ = irgendwas )
+2. VM Verbindung von Internet (Host-Netzwerkeinstellung erkennen und in VM Einfügen)
+3. exam.net Einweisung
+4. EK Vorbereitung (Selbstlernphase)
