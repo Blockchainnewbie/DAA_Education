@@ -3,4 +3,4 @@ Wiki-Format: zim 0.6
 Creation-Date: 2024-08-15T10:43:32+02:00
 
 ====== Mittwoch 14 Aug 2024 ======
-Übungen für die Office Excel Klauru
+Übungen für die Office Excel Klausur
