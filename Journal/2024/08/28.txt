@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-28T11:05:32+02:00
+
+====== Mittwoch 28 Aug 2024 ======
+Projektmanagement
+* Methoden und Werkzeuge (Tools)
+* PDCA-Zyklus
+* Projektstrukturplan
+* Gantt-Diagramm
+* Projektabglaufplan (PAP)
+* Projekt- Tools: Netzplan
+* Prince 2, Scrum
+* Selbstlernphase (Projektmanagment)
