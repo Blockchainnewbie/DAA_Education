@@ -1,5 +1,6 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
+<<<<<<< HEAD
 Creation-Date: 2024-08-27T11:03:27+02:00
 
 ====== Dienstag 27 Aug 2024 ======
@@ -9,4 +10,13 @@ Creation-Date: 2024-08-27T11:03:27+02:00
 		Projekt Phasen
 		SWAIT
 		
+=======
+Creation-Date: 2024-08-28T11:01:24+02:00
+
+====== Dienstag 27 Aug 2024 ======
+Projektmanagement
+* Was ist ein Projekt?
+* Welche Faktoren beeinflussen Art und Umfang (Magisches Dreieck, S.M.A.R.T.)
+* Selbstlernphase (Projektmagnagement)
+>>>>>>> a503683c8368d5c24748ec170cdcd855ae48f2cd
 
