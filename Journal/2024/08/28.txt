@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-08-28T08:42:10+02:00
+
+====== Mittwoch 28 Aug 2024 ======
+
+	Projekt Managment
+		Projekt - Ablauf und Tools
+		
+
