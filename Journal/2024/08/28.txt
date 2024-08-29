@@ -1,5 +1,6 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
+
 <<<<<<< HEAD
 Creation-Date: 2024-08-28T08:42:10+02:00
 
@@ -20,6 +21,6 @@ Projektmanagement
 * Gantt-Diagramm
 * Projektabglaufplan (PAP)
 * Projekt- Tools: Netzplan
-* Prince 2, Scrum
+* Prince 2
 * Selbstlernphase (Projektmanagment)
 >>>>>>> a503683c8368d5c24748ec170cdcd855ae48f2cd
