@@ -10,4 +10,6 @@ Creation-Date: 2024-08-29T08:37:56+02:00
 			die 7 Phasen
 				4. Prozesse
 		
+		Scrum
+			
 
