@@ -14,13 +14,13 @@ Neben den sechs grundlegenden Prinzipien von PRINCE2 gibt es weitere wichtige In
 '''
 PRINCE2 definiert sieben Themen, die verschiedene Aspekte des Projektmanagements abdecken. Diese Themen sind:
 
-Geschäftsfall (Business Case): Rechtfertigung und Überprüfung des Projekts.
-Organisation (Organization): Definition der Rollen und Verantwortlichkeiten.
-Qualität (Quality): Sicherstellung, dass die Produkte den Anforderungen entsprechen.
-Pläne (Plans): Erstellung und Pflege von Projektplänen.
-Risiken (Risk): Identifizierung und Management von Risiken.
-Änderungen (Change): Kontrolle und Management von Änderungen.
-Fortschritt (Progress): Überwachung und Steuerung des Projektfortschritts.
+Geschäftsfall (Business Case): Rechtfertigung und Überprüfung des Projekts. Der Geschäftsfall dokumentiert die Gründe für das Projekt und den erwarteten Nutzen.
+Organisation (Organization): Definition der Rollen und Verantwortlichkeiten. Dies umfasst die Struktur des Projektteams und die Verantwortlichkeiten der einzelnen Mitglieder.
+Qualität (Quality): Sicherstellung, dass die Produkte den Anforderungen entsprechen. Dies beinhaltet die Definition von Qualitätskriterien und die Durchführung von Qualitätsprüfungen.
+Pläne (Plans): Erstellung und Pflege von Projektplänen. Projektpläne umfassen Zeitpläne, Ressourcenpläne und Kostenpläne.
+Risiken (Risk): Identifizierung und Management von Risiken. Dies beinhaltet die Bewertung von Risiken und die Entwicklung von Maßnahmen zur Risikominderung.
+Änderungen (Change): Kontrolle und Management von Änderungen. Dies umfasst die Bewertung und Genehmigung von Änderungsanträgen.
+Fortschritt (Progress): Überwachung und Steuerung des Projektfortschritts. Dies beinhaltet die regelmäßige Überprüfung des Projektstatus und die Anpassung der Pläne bei Abweichungen.
 
 '''
 ====== 2. Prozesse (Processes) ======
@@ -28,13 +28,13 @@ Fortschritt (Progress): Überwachung und Steuerung des Projektfortschritts.
 '''
 PRINCE2 umfasst sieben Prozesse, die den Lebenszyklus eines Projekts strukturieren:
 
-Starten eines Projekts (Starting up a Project)
-Initiieren eines Projekts (Initiating a Project)
-Steuern einer Phase (Directing a Project)
-Steuern einer Phase (Controlling a Stage)
-Management der Produktlieferung (Managing Product Delivery)
-Management der Phasenübergänge (Managing Stage Boundaries)
-Abschließen eines Projekts (Closing a Project)
+Starten eines Projekts (Starting up a Project): Der Prozess, der die ersten Aktivitäten eines Projekts umfasst, einschließlich der Erstellung des Projektmandats und der Ernennung des Projektmanagers.
+Initiieren eines Projekts (Initiating a Project): Der Prozess, der die Planung und Vorbereitung des Projekts umfasst, einschließlich der Erstellung des Projektbriefs und des Geschäftsfalls.
+Steuern eines Projekts (Directing a Project): Der Prozess, der die Aufgaben des Projektlenkungsausschusses umfasst, einschließlich der Genehmigung von Phasenplänen und der Überwachung des Projektfortschritts.
+Steuern einer Phase (Controlling a Stage): Der Prozess, der die täglichen Aktivitäten des Projektmanagers umfasst, einschließlich der Überwachung des Fortschritts und der Verwaltung von Risiken und Änderungen.
+Management der Produktlieferung (Managing Product Delivery): Der Prozess, der die Kontrolle der Produktlieferung durch das Projektteam umfasst, einschließlich der Überprüfung der Produktqualität.
+Management der Phasenübergänge (Managing Stage Boundaries): Der Prozess, der die Planung und Überwachung der Phasenübergänge umfasst, einschließlich der Überprüfung des Phasenplans und der Vorbereitung des nächsten Phasenplans.
+Abschließen eines Projekts (Closing a Project): Der Prozess, der die Abschlussaktivitäten des Projekts umfasst, einschließlich der Überprüfung der Projektergebnisse und der Dokumentation der Lessons Learned.
 
 '''
 ====== 3. Dokumente und Artefakte ======
@@ -42,15 +42,15 @@ Abschließen eines Projekts (Closing a Project)
 '''
 PRINCE2 verwendet eine Reihe von Dokumenten und Artefakten, um die Projektsteuerung zu unterstützen. Dazu gehören:
 
-Projektmandat (Project Mandate)
-Projektbrief (Project Brief)
-Geschäftsfall (Business Case)
-Projektplan (Project Plan)
-Phasenplan (Stage Plan)
-Risikoregister (Risk Register)
-Änderungsantrag (Issue Register)
-Qualitätsregister (Quality Register)
-Projektjournal (Project Journal)
+Projektmandat (Project Mandate): Ein Dokument, das die Gründe für das Projekt und die erwarteten Ergebnisse beschreibt.
+Projektbrief (Project Brief): Ein Dokument, das die wesentlichen Informationen über das Projekt enthält, einschließlich des Geschäftsfalls und der Projektziele.
+Geschäftsfall (Business Case): Ein Dokument, das die Rechtfertigung für das Projekt und den erwarteten Nutzen beschreibt.
+Projektplan (Project Plan): Ein Dokument, das den Gesamtplan für das Projekt enthält, einschließlich Zeitplänen, Ressourcenplänen und Kostenplänen.
+Phasenplan (Stage Plan): Ein Dokument, das den Plan für eine bestimmte Phase des Projekts enthält.
+Risikoregister (Risk Register): Ein Dokument, das die identifizierten Risiken und die Maßnahmen zur Risikominderung enthält.
+Änderungsantrag (Issue Register): Ein Dokument, das die Änderungsanträge und die Maßnahmen zur Bearbeitung der Änderungen enthält.
+Qualitätsregister (Quality Register): Ein Dokument, das die Qualitätsprüfungen und die Ergebnisse der Prüfungen enthält.
+Projektjournal (Project Journal): Ein Dokument, das die täglichen Aktivitäten und Ereignisse des Projekts enthält.
 
 '''
 ====== 4. Rollen und Verantwortlichkeiten ======
@@ -58,13 +58,13 @@ Projektjournal (Project Journal)
 '''
 PRINCE2 definiert klare Rollen und Verantwortlichkeiten, um sicherzustellen, dass alle Beteiligten wissen, was von ihnen erwartet wird. Wichtige Rollen sind:
 
-Projektmanager (Project Manager)
-Projektlenkungsausschuss (Project Board)
-Auftraggeber (Executive)
-Senior User
-Senior Supplier
-Teammanager (Team Manager)
-Projektunterstützung (Project Support)
+Projektmanager (Project Manager): Die Person, die für die tägliche Leitung des Projekts verantwortlich ist.
+Projektlenkungsausschuss (Project Board): Ein Gremium, das die Gesamtverantwortung für das Projekt trägt und wichtige Entscheidungen trifft.
+Auftraggeber (Executive): Ein Mitglied des Projektlenkungsausschusses, das die Gesamtverantwortung für das Projekt trägt.
+Senior User: Ein Mitglied des Projektlenkungsausschusses, das die Interessen der Benutzer vertritt.
+Senior Supplier: Ein Mitglied des Projektlenkungsausschusses, das die Interessen der Lieferanten vertritt.
+Teammanager (Team Manager): Eine Person, die für die Leitung eines Teams innerhalb des Projekts verantwortlich ist.
+Projektunterstützung (Project Support): Eine Person oder ein Team, das administrative und unterstützende Aufgaben im Projekt übernimmt.
 
 '''
 ====== 5. Techniken und Methoden ======
@@ -72,17 +72,16 @@ Projektunterstützung (Project Support)
 '''
 PRINCE2 bietet verschiedene Techniken und Methoden, die zur Unterstützung der Projektsteuerung eingesetzt werden können. Dazu gehören:
 
-Produktbasierte Planung (Product-Based Planning)
-Qualitätsprüfungen (Quality Reviews)
-Risikomanagement (Risk Management)
-Änderungsmanagement (Change Control)
+Produktbasierte Planung (Product-Based Planning): Eine Methode zur Planung des Projekts basierend auf den zu liefernden Produkten.
+Qualitätsprüfungen (Quality Reviews): Eine Methode zur Überprüfung der Qualität der Produkte.
+Risikomanagement (Risk Management): Eine Methode zur Identifizierung, Bewertung und Steuerung von Risiken.
+Änderungsmanagement (Change Control): Eine Methode zur Kontrolle und Verwaltung von Änderungen im Projekt.
 
 '''
 ====== 6. Anpassung an die Umgebung (Tailoring) ======
 
 '''
 PRINCE2 ist flexibel und kann an die spezifischen Anforderungen und die Umgebung eines Projekts angepasst werden. Dies beinhaltet die Anpassung der Prinzipien, Themen und Prozesse an die Größe, Komplexität und den Kontext des Projekts.
-
 '''
 ====== 7. Kontinuierliche Verbesserung ======
 
