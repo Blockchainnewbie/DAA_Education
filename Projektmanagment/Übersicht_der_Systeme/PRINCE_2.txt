@@ -13,27 +13,38 @@ PRINCE2 (Projects IN Controlled Environments) ist eine weit verbreitete und aner
 
 ===== Gerechtfertigter Geschäftsnutzen (Continued Business Justification): =====
 
-Erklärung: Ein Projekt sollte nur dann gestartet und fortgeführt werden, wenn es einen klaren und nachweisbaren Geschäftsnutzen bietet. Dieser Nutzen muss während des gesamten Projektverlaufs regelmäßig überprüft werden.
+**Erklärung:** Ein Projekt sollte nur dann gestartet und fortgeführt werden, wenn es einen klaren und nachweisbaren Geschäftsnutzen bietet. Dieser Nutzen muss während des gesamten Projektverlaufs regelmäßig überprüft werden.
 
-Beispiel: Wenn ein Projekt darauf abzielt, die Effizienz eines Unternehmens zu steigern, muss sichergestellt werden, dass die erwarteten Einsparungen oder Effizienzsteigerungen realistisch und messbar sind.
-Lernen aus Erfahrungen (Learn from Experience):
+**Beispiel:** Wenn ein Projekt darauf abzielt, die Effizienz eines Unternehmens zu steigern, muss sichergestellt werden, dass die erwarteten Einsparungen oder Effizienzsteigerungen realistisch und messbar sind.
 
-Erklärung: Projekte sollten aus den Erfahrungen früherer Projekte lernen. Dies beinhaltet sowohl das Sammeln von Erfahrungen während des Projekts als auch das Nutzen dieser Erfahrungen für zukünftige Projekte.
-Beispiel: Ein Projektteam könnte regelmäßige Lessons Learned-Sitzungen abhalten, um herauszufinden, was gut funktioniert hat und was verbessert werden kann.
-Definierte Rollen und Verantwortlichkeiten (Defined Roles and Responsibilities):
+===== Lernen aus Erfahrungen (Learn from Experience): =====
 
-Erklärung: Jedes Projekt sollte klar definierte Rollen und Verantwortlichkeiten haben, um sicherzustellen, dass alle Beteiligten wissen, was von ihnen erwartet wird.
-Beispiel: Ein Projekt könnte einen Projektmanager, einen Projektlenkungsausschuss und verschiedene Teammitglieder haben, deren Rollen und Verantwortlichkeiten klar dokumentiert sind.
-Management in Phasen (Manage by Stages):
+**Erklärung:** Projekte sollten aus den Erfahrungen früherer Projekte lernen. Dies beinhaltet sowohl das Sammeln von Erfahrungen während des Projekts als auch das Nutzen dieser Erfahrungen für zukünftige Projekte.
 
-Erklärung: Ein Projekt sollte in überschaubare Phasen unterteilt werden, um die Kontrolle und den Überblick zu behalten. Jede Phase sollte durch definierte Meilensteine und Entscheidungspunkte gekennzeichnet sein.
-Beispiel: Ein Projekt könnte in die Phasen Planung, Entwicklung, Test und Implementierung unterteilt werden, wobei nach jeder Phase eine Überprüfung und Freigabe erfolgt.
-Management nach dem Ausnahmeprinzip (Manage by Exception):
+**Beispiel:** Ein Projektteam könnte regelmäßige Lessons Learned-Sitzungen abhalten, um herauszufinden, was gut funktioniert hat und was verbessert werden kann.
 
-Erklärung: Das Projektmanagement sollte sich auf Abweichungen von den geplanten Toleranzen konzentrieren, anstatt jedes Detail zu überwachen. Dies ermöglicht es dem Management, sich auf die wichtigsten Probleme zu konzentrieren.
-Beispiel: Wenn ein Projektteam feststellt, dass die Kosten um mehr als 10 % über dem Budget liegen, wird dies als Ausnahme behandelt und dem Projektlenkungsausschuss zur Entscheidung vorgelegt.
-Fokus auf Produkte (Focus on Products):
+===== Definierte Rollen und Verantwortlichkeiten (Defined Roles and Responsibilities): =====
 
-Erklärung: Ein Projekt sollte sich auf die Lieferung von Produkten konzentrieren, die den Anforderungen und Qualitätskriterien entsprechen. Dies beinhaltet die klare Definition der Produkte und deren Überprüfung.
-Beispiel: Ein Projekt zur Entwicklung einer neuen Software könnte klare Anforderungen und Qualitätskriterien für die Software definieren und regelmäßige Tests durchführen, um sicherzustellen, dass diese Kriterien erfüllt werden.
+**Erklärung:** Jedes Projekt sollte klar definierte Rollen und Verantwortlichkeiten haben, um sicherzustellen, dass alle Beteiligten wissen, was von ihnen erwartet wird.
+
+**Beispiel:** Ein Projekt könnte einen Projektmanager, einen Projektlenkungsausschuss und verschiedene Teammitglieder haben, deren Rollen und Verantwortlichkeiten klar dokumentiert sind.
+
+===== Management in Phasen (Manage by Stages): =====
+
+**Erklärung:** Ein Projekt sollte in überschaubare Phasen unterteilt werden, um die Kontrolle und den Überblick zu behalten. Jede Phase sollte durch definierte Meilensteine und Entscheidungspunkte gekennzeichnet sein.
+
+**Beispiel:** Ein Projekt könnte in die Phasen Planung, Entwicklung, Test und Implementierung unterteilt werden, wobei nach jeder Phase eine Überprüfung und Freigabe erfolgt.
+
+===== Management nach dem Ausnahmeprinzip (Manage by Exception): =====
+
+**Erklärung:** Das Projektmanagement sollte sich auf Abweichungen von den geplanten Toleranzen konzentrieren, anstatt jedes Detail zu überwachen. Dies ermöglicht es dem Management, sich auf die wichtigsten Probleme zu konzentrieren.
+
+**Beispiel:** Wenn ein Projektteam feststellt, dass die Kosten um mehr als 10 % über dem Budget liegen, wird dies als Ausnahme behandelt und dem Projektlenkungsausschuss zur Entscheidung vorgelegt.
+
+===== Fokus auf Produkte (Focus on Products): =====
+
+**Erklärung:** Ein Projekt sollte sich auf die Lieferung von Produkten konzentrieren, die den Anforderungen und Qualitätskriterien entsprechen. Dies beinhaltet die klare Definition der Produkte und deren Überprüfung.
+
+**Beispiel:** Ein Projekt zur Entwicklung einer neuen Software könnte klare Anforderungen und Qualitätskriterien für die Software definieren und regelmäßige Tests durchführen, um sicherzustellen, dass diese Kriterien erfüllt werden.
+
 Diese Prinzipien helfen dabei, Projekte strukturiert und effizient zu managen, indem sie klare Richtlinien und Verantwortlichkeiten schaffen und sicherstellen, dass das Projekt stets auf den Geschäftsnutzen ausgerichtet bleibt.
