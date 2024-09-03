@@ -1,0 +1,67 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T14:17:35+02:00
+
+====== Lern- und Arbeitstechniken ======
+Angelegt Dienstag 03 September 2024
+===== **Soft skills** =====
+* Wann Phänomen zu Information? --> wenn Sinn & Bedeutung für einen selbst
+* 
+{{.\pasted_image.png}}
+* SWOT – Methode
+	* Bedeutung
+		* Strenght - Stärken 
+		* Weaknesses – Schwächen 
+		* Opportunities – Chancen 
+		* Threats – Risiken
+	* Ursprung / Definition
+		* Grundlage für Strategie- und Unternehmensplanung
+		* Positionierungsanalyse der eigenen Aktivitäten gegenüber dem Wettbewerb
+	* Methodik
+		* Interne Analyse (Unternehmensanalyse): ausgewählte Merkmale als Stärken oder Schwächen bewerten
+			* Ergebnis: Stärken-Schwächen-Profil 
+		* Externe Analyse (Umfeldanalyse): ausgewählte Merkmale/ Trends/ Entwicklungen als Chancen oder Risiken bewerten
+			* Ergebnis: Chancen-Risiken-Katalog
+		* Gegenüberstellung Stärken-Schwächen-Profil und Chancen-Risiken-Katalog
+		* {{.\pasted_image001.png}}
+		* Ziele
+			* Strategie entwickeln / festlegen
+			* Ressourcen gewinnbringend nutzen
+			* Projekte / Entwicklungschancen anstoßen
+			* Maßnahmen ergreifen
+
+===== Motivation =====
+* Definiton
+	o	Bereitschaft zu einem bestimmten Verhalten
+	o	Bestimmt durch innere, äußere, hormonelle Faktoren / umfasst Gesamtheit aller zum Handeln führender Motive und Beweggründe
+	o	Volition = Umsetzung Motive in Handlungen
+	o	Mögliche Unterscheidungen: intrinsisch vs. Extrinsisch // bewusst vs. unbewusst
+	o	Inhaltsmodelle: Inhalt, Art, Wirkung von Motiven // Erklärung durch psychische Inhalte
+	o	Prozessmodelle: Entstehung Motivation formal und losgelöst von Bedürfnisinhalten, Nutzenmaximierung
+* Bedürfnishierarchie nach Abraham H. Maslow (Inhaltsmodell)
+	o	Kategorisierung und Priorisierung von Bedürfnissen
+	o	Defizitbedürfnisse = Motivation durch Mangel // Wachstumsbedürfnisse = unstillbare Bedürfnisse, Motivation durch persönliche Weiterentwicklung
+	o	 {{.\pasted_image002.png}}
+* Leistungsmotivationstheorie / Motivtheorie nach McClelland et al. (Inhaltmodell)
+	o	Motivation resultiert aus drei dominierenden Bedürfnissen
+			Leistung
+			Macht
+			Zugehörigkeit
+* Zwei-Faktoren-Theorie nach Herzberg (Inhaltsmodell)
+	o	Auch Motivator-Hygiene-Theorie
+	o	Theorie zur Arbeitsmotivation
+	o	Motivatoren 
+			auf Arbeitsinhalt bezogen
+			Eigenschaft: zufrieden – unzufrieden
+			Bsp.: Anerkennung, Erfolg, Verantwortung. Arbeitsinhalte
+	o	Hygienefaktoren 
+			auf Arbeitskontext bezogen
+			Eigenschaften: unzufrieden – nicht zufrieden
+			Bsp.: Gehalt, Führungsstil, Arbeitsbedingungen
+	o	Zufriedenheit nicht zwangsläufig durch Abwesenheit Unzufriedenheit
+	o	Zusammenspiel Faktoren
+			Hohe Hygiene + hohe Motivation
+			Hohe Hygiene + geringe Motivation
+			Geringe Hygiene + hohe Motivation
+			Geringe Hygiene + geringe Motivation
+

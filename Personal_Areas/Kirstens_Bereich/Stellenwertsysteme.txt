@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T14:24:59+02:00
+
+====== Stellenwertsysteme ======
+Angelegt Dienstag 03 September 2024
+
+* Zahlensystem (auch Ziffernsystem)
+	o	Definition
+			Systematische Methode zur Darstellung von Zahlen mithilfe von Symbolen, insbesondere wenn ihr Wert nicht unmittelbar abzählbar oder erkennbar ist
+			3 wesentliche Zahlensysteme
+			* Stellenwertsystem (z.B. Dezimalsystem)
+			* Additionssystem (z.B. Römische Zahlschrift)
+			* Hybridsystem (z.B. Japanische Zahlschrift)
+			* Stellenwertsystem (auch Positionssystem/ polyadisches Zahlensystem)
+	o	Definition 
+			System zur Darstellung reeller Zahlen als Zeichenreihen über einem endlichen Alphabet, wobei der Wert eines Zeichens von seiner Stelle in der Zeichenreihe abhängt 
+			* Bsp.: Dezimalsystem 
+					Zahlzeichen 101 entspricht 1*100 + 0*10 + 1*1	
+	o	Basis (auch Grundzahl b)
+			legt Faktor fest, um den der Stellenwert von Stelle zu Stelle größer wird
+			stimmt mit dem Umfang des Ziffernvorrats überein
+			Anzahl der einzigartigen Symbole oder Ziffern, die in dem System zur Darstellung von Zahlen verwendet werden
+			* Bsp.: Hexadezimalsystem
+				b = 16
+o	Ziffernvorrat
+	Bei einem Stellenwertsystem wird ein Ziffernsystem mit genau b verschiedenen Ziffern verwendet
+	Ziffernvorrat entspricht Basis – 1 
+	Den Ziffern wird ein Ziffernwert zugeordnet
+* Bsp.: Hexadezimalsystem
+Ziffer A  Ziffernwert (nach Dezimalsystem) 10
+o	Stelle und Stellenwert
+	Stelle: eingenommener/ angedachter Platz einer Ziffer in einer Ziffernfolge
+	Stellenwert: Wert, der einer Stelle zugewiesen wird und einer Potenz der Basis entspricht
+	Stelle mit niedrigstem Stellenwert steht ganz rechts, nach links jeweils Erhöhung um Faktor b
+o	Beispiel:
