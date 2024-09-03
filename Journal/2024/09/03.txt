@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T09:45:12+02:00
+
+====== Dienstag 03 Sep 2024 ======
+
+	Projektmanagment
+		IPMA
+
