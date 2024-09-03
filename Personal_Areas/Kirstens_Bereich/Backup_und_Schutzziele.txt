@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T14:30:40+02:00
+
+====== Backup und Schutzziele ======
+Angelegt Dienstag 03 September 2024
+===== Backupstrategien (Was Wie Wann Wo) =====
+ 
+1. Vollständige Backups: 
+	* Bei dieser Methode werden alle ausgewählten Daten und Dateien in einem einzigen Backup-Vorgang gesichert. Vollständige Backups bieten eine einfache Wiederherstellung, erfordern jedoch mehr Speicherplatz und dauern länger. 
+2. Inkrementelle Backups: 
+	* Hier werden nur die seit dem letzten Backup hinzugefügten oder geänderten Daten gesichert. Dies spart Speicherplatz, verringert jedoch die 	Wiederherstellungszeit, da alle inkrementellen Backups bis zum letzten vollständigen Backup wiederhergestellt werden müssen. 
+3. Differentielle Backups: 
+	* Ähnlich wie inkrementelle Backups, sichern differentielle Backups nur die seit dem letzten Vollbackup geänderten Daten. Der Unterschied besteht darin, dass differentielle Backups jedes Mal alle Änderungen seit dem letzten Vollbackup sichern, während inkrementelle nur die Änderungen seit dem letzten Backup speichern. 
+4. Spiegelung (Mirroring): 
+	* Hier wird eine exakte Kopie aller Daten erstellt, sodass zwei identische Datensätze vorhanden sind. 
+5. Snapshot-Backups: 
+	* Diese Methode erstellt einen Momentaufnahmestatus (Snapshot) des gesamten Systems oder einer Dateisystemebene. Snapshot-Backups ermöglichen schnelle Wiederherstellungen und minimieren den Einfluss auf die Produktivität während des Backup-Vorgangs. 
+6. Hybride Backups: 
+	* Diese Methode kombiniert verschiedene Backup-Strategien, um ein ausgewogenes Verhältnis zwischen Speicherplatznutzung, Wiederherstellungszeit und Komplexität zu erreichen. Zum Beispiel könnten regelmäßige inkrementelle Backups mit periodischen vollständigen Backups kombiniert werden. 
+7. Remote Backups (Offsite Backups): 
+	* Backup-Kopien werden an einem entfernten Ort aufbewahrt, normalerweise außerhalb des primären Standortes des Unternehmens. Dies schützt vor Katastrophen wie Bränden oder Naturkatastrophen. 
+8. Cloud-Backups: 
+	* Daten werden in der Cloud gesichert, oft über Online-Backup-Dienste. Dies bietet Skalierbarkeit, Flexibilität und den Vorteil der externen Datenspeicherung. 
+9. Automatisierte Backups: 
+	* Backups werden automatisch und regelmäßig ohne menschliches Eingreifen durchgeführt. Dies gewährleistet eine konsistente Datensicherung. 
+10. Versionierung: 
+	* Diese Methode speichert verschiedene Versionen derselben Datei oder des Systems zu unterschiedlichen Zeitpunkten. Dadurch kann der Benutzer zu einem früheren Zeitpunkt zurückkehren, um eine bestimmte Version wiederherzustellen. 
+ 
+Die Wahl der Backupstrategie hängt von Faktoren wie der Art der Daten, den verfügbaren Ressourcen, den Wiederherstellungszeiten, den Datenschutzanforderungen und dem Budget ab. Eine umfassende Backupstrategie sollte auch regelmäßige Tests der Wiederherstellungsfunktionen und eine Überprüfung der Backup-Richtlinien einschließen. 
+{{.\pasted_image.png}}
+{{.\pasted_image001.png}}
+{{.\pasted_image002.png}}
+
+===== Schutzziele der Informationssicherheit =====
+
+
+* Definition: 
+	o	Schutz digitaler Informationen und Systeme vor unbefugtem Zugriff, Nutzung, Offenlegung, Unterbrechung, Änderung oder Zerstörung
+	o	Umfasst Maßnahmen und Praktiken, die zu diesen Zwecken implementiert werden
+	o	Beinhaltet Sicherung sensibler Daten und Gewährleistung Grundprinzipien
+* Grundprinzipien und Ziele:
+	o	Vertraulichkeit: Daten schützen
+	o	Integrität: Unbefugte Veränderungen verhindern
+	o	Verfügbarkeit: Zugriff auf Ressourcen sicherstellen
+* Vertraulichkeit:
+	o	Sicherstellung, dass nur autorisierte Personen Zugang zu sensiblen Informationen haben und dass diese Informationen vor unbefugtem Zugriff geschützt sind.
+	o	Zugriffskontrollen: Benutzerrollen, Berechtigungen, Benutzername, Passwort (2fa, OneTimePasswort, FidoKeey)
+	o	Verschlüsselung von sensiblen Daten: Zertifikate, Verschlüsselungstechniken
+	o	Firewall: schützt internes Netzwerk
+* Integrität:
+	o	Sicherstellung, dass Informationen korrekt und vollständig sind und dass sie nicht unautorisiert geändert, gelöscht oder manipuliert werden können.
+	o	Prüfsummen: Mathematische Algorithmen
+	o	Berechtigung: Durch Zugriffsrechte und Berechtigungen nur autorisierte Benutzer Fähigkeit Daten zu ändern
+	o	Backups: regelmäßige Backups
+* Verfügbarkeit:
+	o	Sicherstellung, dass Informationen und Systeme für autorisierte Benutzer stets verfügbar sind, wenn sie benötigt werden
+	o	Automatisierte Backups
+	o	Redundante Systeme
+	o	Failover-Systeme
+	o	Load-Balancing
+	o	USV
+
+

@@ -1,0 +1,68 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T14:34:35+02:00
+
+====== Netzwerkspeicher ======
+Angelegt Dienstag 03 September 2024
+
+===== NAS – Network Attached Storage =====
+
+* Definition:
+	o	einfach zu verwaltende Dateiserver, ohne hohen Aufwand unabhängige Speicherkapazität in einem Rechnernetz bereitstellen
+	o	Engere Definition: Serverdienste, die den über einen Netzwerkdienst angeschlossenen Clients betriebssystemabhängig einsatzbereite Dateisysteme zur Verfügung stellen
+	o	Weitere Definition: stellen zentralen Speicherplatz auf Disk-Arrays sowohl mit dateibasiertem als auch mit blockbasiertem Zugriff über das allgemeine Netzwerk zur Verfügung
+* Festplattenspeicher mit Daten soll netzwerkweit zur Verfügung stehen
+	o	Speichersystem muss direkt ans Netzwerk angeschlossen sein
+	o	Speichersystem braucht zusätzliche Übertragungsprotokolle, um Dateien des Speicherplatzes im angeschlossenen Netzwerk zur Verfügung zu stellen
+			Dateibasierte Netzwerkprotokolle (z.B. SMB, NFS) oder
+			Blockbasierte Netzwerkprotokolle (z.B. iSCSI, FCoE)
+* Arbeiten autonom = brauchen keinen dedizierten PC oder Server
+	o	Immer entweder eigenständiger Computer (Host) oder virtueller Computer (Virtual Storage Appliance VSA) mit eigenem Betriebssystem
+* Dateisysteme des NAS erscheinen auf Zielsystem wie eingebundene Freigabe bzw. wie lokales Dateisystem
+* Vorteile NAS
+	o	Energieverbrauch: deutlich geringerer Stromverbrauch im Vergleich zu herkömmlichen PCs
+	o	Geschwindigkeit: bewältigen große Datenmengen; gleichzeitiger Zugriff mehrerer Benutzer; Durch LAN schnelle Übertragung
+	o	Datensicherheit: können mit mehreren Festplatten ausgestattet werden, die zu logischem Volume im RAID zusammengefasst werden können; NAS-Festplatten auf Dauerbetrieb ausgelegt; schnelle Sicherung
+	o	Kontrolle: Kein Einsatz von Drittanbietern für Datenspeicherung
+	o	Benutzerfreundlichkeit durch einfache Einrichtung, etablierte Technologie
+	o	Zuverlässiger Zugriff: durch lokale Einbindung Internetunabhängig
+* Funktionen
+	o	Datenschutz: Berücksichtigung von Zugriffsrechten (ACL) für im Netz eingetragene Nutzer
+			Persönliche Daten: Nur einem Nutzer zugänglich
+			Gruppendaten: Mehreren Nutzern zugänglich
+	o	RAID: nicht bei allen gegeben
+	o	Filer: Kernfunktion sind dateibasierte Dienste 
+			Manche zusätzlich blockbasierte Datenzugriffe mittels iSCSI-Implementierung
+	o	NDAS (Network Direct Attached Storage): zusätzliche Funktionen für SoHo- oder Heimnetzwerke (z.B. Druckerserver), oft auf wenige Computer begrenzt, da je nach System spezielle Gerätetreiber auf jedem PC notwendig sind
+* Schnittstellen
+	o	Ethernet und TCP/IP
+			Problem: TCP/IP-Protokoll-Overhead und Bandbreitenprobleme in Vergangenheit, daher damals weniger geeignet für abgesetzte Massenspeicher auf Betriebssystem-Ebene (z.B. SQL)
+	o	Architektur ermöglicht gleichzeitige Mehrfachzugriffe auf Daten unter Nutzung der entsprechenden Schnittstellen für Softwarearchitekturen wie SAP, die gleichzeitige Mehrfachzugriffe auf Dateien bedingen (SAN hierfür nicht geeignet
+	o	Webschnittstelle zur Einrichtung und Konfiguration zumindest bei kleinen Netzwerken möglich
+* Bundle 
+	o	Network Interface Card (NIC), Storage Controller, Reihe von Laufwerkseinschüben (2-5 Festplatten), Stromversorgung
+	o	Hardware: NAS-Box / Einheit / Server / Head; einfacher Server mit Datenspeicher + Prozessoren + RAM; Überträgt lediglich zwei Arten von Anfragen (Datenspeicher und Filesharing)
+	o	Software: vorkonfiguriert, auf Hardware installiert, auf in Hardware integriertem Betriebssystem bereitgestellt
+	o	Netzwerk Switch: Benutzer greifen über Switch auf Datenübertragungsprotokolle zu  zentraler Server, mit allen Komponenten verbunden, leitet Anfragen weiter
+	o	Protokolle: TCP (Transmission Control Protocol) kombiniert Dateien zu Paketen, übermittelt diese durch Internet-Protokolle (IPs)
+{{.\pasted_image.png}}
+
+===== DAS – Direct Attached Storage =====
+
+* Definition
+	o	Speicherlaufwerk, das direkt mit einem Rechner oder Server verbunden ist
+* Verbindung:
+	o	 Exklusiv für verbundenes System über Punkt-zu-Punkt-Verbindung; sämtliche Zugriffe vom verbundenen Server oder Rechner aus gesteuert
+	o	Andere Rechner nur indirekten Zugriff mittels Freigaben oder besonderer User-Rechte von verbundenen System
+* Schnittstellen / Übertragungsprotokolle: 
+	o	z.B. eSATA, Firewire, ATA/ATAPI, SCSI, SAS, USB mit UAS; i.d.R. blockorientiert
+* Vorteile
+	o	Günstige Anschaffung durch geringen Hardwareaufwand
+	o	Hohe Geschwindigkeit
+	o	Benutzerfreundlichkeit durch geringe Komplexität
+* Nachteile
+	o	Für jede Festplatte ein Anschluss benötigt
+	o	Zugriffe anderer nur aufwendig über Benutzerrechte zu realisieren
+* Erweiterung von NAS und SAN Festplatten-Arrays
+	o	NAS / SAN als Host  muss hostfähige Erweiterungsschnittstellen anbieten
+
