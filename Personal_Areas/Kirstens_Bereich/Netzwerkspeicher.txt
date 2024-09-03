@@ -65,4 +65,112 @@ Angelegt Dienstag 03 September 2024
 	o	Zugriffe anderer nur aufwendig über Benutzerrechte zu realisieren
 * Erweiterung von NAS und SAN Festplatten-Arrays
 	o	NAS / SAN als Host  muss hostfähige Erweiterungsschnittstellen anbieten
+{{.\pasted_image001.png}}
+
+===== SAN – Storage Area Network =====
+
+* Definition:
+	o	Dediziertes Netzwerk
+	o	auf bestimmte Umgebung zugeschnitten
+	o	verbindet Server, Speichersysteme, Networking-Switches, Software und Dienste
+* Einsatzziele:
+	o	Effizienz steigern und Datenverwaltung verbessern
+* Netzwerkflexibilität:
+	o	Server oder mehrere heterogene Server in mehreren Rechenzentren können gemeinsames Speicherdienstprogramm nutzen
+	o	Vermeidet Bandbreitenengpässe
+	o	Eliminiert einzelne Ausfallpunkte, um Speicherzuverlässigkeit und -verfügbarkeit zu verbessern
+* Notfallwiederherstellung (Disaster Recovery DR):
+	o	Netzwerk kann viele Speichergeräte umfassen (z.B. Festplatten, Magnetbänder, optische Speicher)
+	o	Speicherdienstprogramm möglicherweise weit entfernt von verwendeten Servern
+* Vorteile:
+	o	Verbesserte Anwendungsverfügbarkeit: 
+			Speicher ist unabhängig von Anwendungen verfügbar und kann über mehrere Pfade abgerufen werden, um die Zuverlässigkeit, Verfügbarkeit und Wartbarkeit zu erhöhen
+	o	Bessere Anwendungsleistung: 
+			SANs laden die Speicherverarbeitung von Servern auf separate Netzwerke aus und verschieben sie
+	o	Zentralisiert und Konsolidiert: 
+			SANs erleichtern die Verwaltung, Skalierbarkeit, Flexibilität und Hochverfügbarkeit
+	o	Fernübertragung und -sicherung von Daten:
+			SANs schützen Daten durch eine Remote-Kopie vor Katastrophen und bösartigen Angriffen
+	o	Einfache zentrale Verwaltung:
+			SANs vereinfachen die Verwaltung durch die Erstellung einzelner Bilder von Speichermedien
+* Funktionsweise:
+	o	Netzwerk hinter den Servern: Umfasst Kommunikationsstruktur, die physische Verbindungen bereitstellt und es einem Any-to-Any-Gerät ermöglicht, über miteinander verbundene Elemente wie Switches oder Directors eine Brücke über das Netzwerk zu schlagen
+	o	Umfasst zusätzlich Verwaltungsschicht zur Organisation von Verbindungen, Speicherelementen und Computersystemen  fördert stabile Datenübertragung
+	o	Meistens blockbasierte Speicherung
+	o	Verbinden gemeinsam genutzte Speicher-Arrays und Bandbibliotheken mit mehreren Servern, die von geclusterten Servern zur Ausfallsicherung verwendet werden
+	o	Umgehen herkömmliche Engpässe im Netzwerkverkehr, ermöglichen auf verschiedene Arten Hochgeschwindigkeitsdatenübertragung zwischen Servern und Speichergeräten
+			Server zu Speicher: seriellen oder paralleler Zugriff mehrerer Server auf einen Speicher
+			Server zu Server: Hochgeschwindigkeitskommunikation mit geringer Latenz und hohem Volumen zwischen Servern
+			Speicher zu Speicher: Möglichkeit, Daten ohne Eingreifen des Servers zu verschieben  Serverprozessorzyklen für andere Aktivitäten Freitag
+* SAN-Switch
+	o	Zweck:
+			Speicherdatenverkehr zwischen Servern und gemeinsam genutzten Speicherpools verschieben
+			Verbindet mehrere Host-Server, bestehend aus Speicherservern und Geräten zu einem SAN
+	o	Mögliche Funktionen:
+			Switches als eigenständige Geräte zum Aufbau einer einfachen SAN-Struktur
+			Verbindung mehrerer Switches miteinander, um größere SAN-Struktur aufzubauen 
+	o	SAN-Strukturen:
+			Aktive, intelligente, nicht gemeinsam genutzte Verbindungen mehrerer SAN-Switches
+			Erhöhen Anzahl Verbindungen in einem SAN
+			Fibre Channel Hostbusadapter (HBA) verbinden Switches mit Dateiservern
+* SAN-Komponenten:
+	o	Server:
+			Serverinfrastruktur ist Basis aller SAN-Lösungen  Infrastruktur umfasst Mischung von Serverplattformen
+	o	Speicher:
+			Festplattensysteme: HDDs, SSDs, Flash-Laufwerke
+			Bandsysteme: Bandlaufwerke, Band-Autoloader, Bandbibliotheken
+	o	Netzwerkinfrastruktur:
+			SAN-Konnektivität besteht aus Hardware- und Softwarekomponenten, die Speichergeräte und Server miteinander verbinden (einschließlich Fibre Channel)
+			Hardware: z.B. Hubs, Switches, Gateways, Directors, Router
+			Software: SAN-Verwaltungssoftware
+* SAN-Speicherverbindungen:
+	o	SAN-Protokoll = Verbindungstyp, der festlegt, wie Geräte und Switches innerhalb SAN-Struktur miteinander kommunizieren
+	o	Ein oder mehrere Protokolle möglich; bestimmte Geräte sind Multiprotokoll-Router und -Geräte
+	o	Multiprotokoll-Router und -Geräte:
+			Ermöglichen Kommunikation von Geräten in separaten SAN-Strukturen (statt Zusammenführung zu Meta-SAN-Struktur)
+			Je nach Hersteller Unterstützung vieler Protokolle (z.B. SMB – Server Message Block) und eigene Funktionen (z.B. Zoning)
+	o	SAN-Verbindungstypen
+			iSCSI (Internet Small Computer System Interface):
+			* IP-basiertes Standardprotokoll für die Verbindung von Datenspeichergeräten über ein Netzwerk und Datenübertragung durch Übertragung von SCSI-Befehlen über IP-Netzwerke
+			* Gleiche Netzwerktechnologien für Speicherung, Speichermanagement und Datennetze
+			* Verwendung von TCP/IP  Kann über fast jedes physische Netzwerk laufen
+			FCP (Fibre Channel Protocol): 
+			* = serielles SCSI-Befehlsprotokoll, verwendet in in Fibre Channel Netzwerken
+			* Netzwerktechnologie mit Gigabit-Geschwindigkeit
+			* Hauptsächlich für Speichernetzwerke verwendet
+			* Standardprotokoll für offene Systeme
+			FCoE (Fibre Channel over Ethernet):
+			* Protokoll zum Routing von FC-Paketen über Ethernet
+			* Kann Flexibilität und Vereinfachung der SAN-Infrastruktur verbessern
+			* Ersetzt dedizierte Switching-Lösung für LANs und SANs durch einziges Gerät, das beides übertragen kann = IP-Pakete und Speicherdaten = konvergente Netzwerke
+			FCIP (Fibre Channel over IP):
+			* Auch: Fibre Channel Tunneling oder Storage Tunneling
+			* Übertragung von Fibre-Channel-Informationen über IP-Netzwerk
+			FC-NVMe (Non-Volatile Memory Express over Fibre Channel):
+			* Host-Controller-Schnittstelle und Speicherprotokoll
+			* Beschleunigt Datenübertragung zwischen Unternehmens- und Clientsystemen und SSD über Hochgeschwindigkeits-PCIe-Bus eines Computers
+{{.\pasted_image002.png}}
+
+
+===== Unterschied NAS – SAN =====
+
+* SAN
+	o	    Netzwerk aus mehreren Geräten
+	o	    Block Storage-System
+	o	    Fibre Channel-Netzwerk
+	o	    Optimiert für mehrere Benutzer
+	o	    Schnellere Leistung
+	o	    Hochgradig erweiterbar
+	o	    Höhere Kosten und komplexe Einrichtung
+* NAS
+	o	    Einzelnes Speichergerät oder RAID
+	o	    File Storage-System
+	o	    TCP/IP-Ethernet-Netzwerk
+	o	    Begrenzte Benutzeranzahl
+	o	    Begrenzte Geschwindigkeit
+	o	    Begrenzte Erweiterungsmöglichkeiten
+	o	    Niedrigere Kosten und einfache Einrichtung
+
+
+
 
