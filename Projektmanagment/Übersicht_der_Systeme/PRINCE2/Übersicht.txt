@@ -1,0 +1,71 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T10:13:35+02:00
+
+====== Übersicht ======
+Angelegt Dienstag 03 September 2024
+
+'''
+Neben den sechs grundlegenden Prinzipien von PRINCE2 gibt es weitere wichtige Informationen und Konzepte, die für das Verständnis und die Anwendung der Methode entscheidend sind. Hier sind einige zusätzliche Aspekte, die du kennen solltest:
+
+'''
+====== 1. Themen (Themes) ======
+'''
+PRINCE2 definiert sieben Themen, die verschiedene Aspekte des Projektmanagements abdecken. Diese Themen sind:
+
+Geschäftsfall (Business Case): Rechtfertigung und Überprüfung des Projekts.
+Organisation (Organization): Definition der Rollen und Verantwortlichkeiten.
+Qualität (Quality): Sicherstellung, dass die Produkte den Anforderungen entsprechen.
+Pläne (Plans): Erstellung und Pflege von Projektplänen.
+Risiken (Risk): Identifizierung und Management von Risiken.
+Änderungen (Change): Kontrolle und Management von Änderungen.
+Fortschritt (Progress): Überwachung und Steuerung des Projektfortschritts.
+'''
+===== 2. Prozesse (Processes) =====
+'''
+PRINCE2 umfasst sieben Prozesse, die den Lebenszyklus eines Projekts strukturieren:
+
+Starten eines Projekts (Starting up a Project)
+Initiieren eines Projekts (Initiating a Project)
+Steuern einer Phase (Directing a Project)
+Steuern einer Phase (Controlling a Stage)
+Management der Produktlieferung (Managing Product Delivery)
+Management der Phasenübergänge (Managing Stage Boundaries)
+Abschließen eines Projekts (Closing a Project)
+3. Dokumente und Artefakte
+PRINCE2 verwendet eine Reihe von Dokumenten und Artefakten, um die Projektsteuerung zu unterstützen. Dazu gehören:
+
+Projektmandat (Project Mandate)
+Projektbrief (Project Brief)
+Geschäftsfall (Business Case)
+Projektplan (Project Plan)
+Phasenplan (Stage Plan)
+Risikoregister (Risk Register)
+Änderungsantrag (Issue Register)
+Qualitätsregister (Quality Register)
+Projektjournal (Project Journal)
+4. Rollen und Verantwortlichkeiten
+PRINCE2 definiert klare Rollen und Verantwortlichkeiten, um sicherzustellen, dass alle Beteiligten wissen, was von ihnen erwartet wird. Wichtige Rollen sind:
+
+Projektmanager (Project Manager)
+Projektlenkungsausschuss (Project Board)
+Auftraggeber (Executive)
+Senior User
+Senior Supplier
+Teammanager (Team Manager)
+Projektunterstützung (Project Support)
+5. Techniken und Methoden
+PRINCE2 bietet verschiedene Techniken und Methoden, die zur Unterstützung der Projektsteuerung eingesetzt werden können. Dazu gehören:
+
+Produktbasierte Planung (Product-Based Planning)
+Qualitätsprüfungen (Quality Reviews)
+Risikomanagement (Risk Management)
+Änderungsmanagement (Change Control)
+6. Anpassung an die Umgebung (Tailoring)
+PRINCE2 ist flexibel und kann an die spezifischen Anforderungen und die Umgebung eines Projekts angepasst werden. Dies beinhaltet die Anpassung der Prinzipien, Themen und Prozesse an die Größe, Komplexität und den Kontext des Projekts.
+
+7. Kontinuierliche Verbesserung
+PRINCE2 betont die Bedeutung des Lernens aus Erfahrungen und der kontinuierlichen Verbesserung. Dies beinhaltet regelmäßige Überprüfungen und Lessons Learned-Sitzungen, um sicherzustellen, dass das Projektteam ständig dazulernt und sich verbessert.
+
+Diese zusätzlichen Informationen helfen dir, ein umfassenderes Verständnis von PRINCE2 zu entwickeln und die Methode effektiv in deinen Projekten anzuwenden.
+'''
