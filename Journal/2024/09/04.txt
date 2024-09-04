@@ -5,4 +5,8 @@ Creation-Date: 2024-09-04T08:47:37+02:00
 ====== Mittwoch 04 Sep 2024 ======
 
 Projektmanagment
-	Wasserfall Modell
+	Einführung Wasserfall Modell
+	Research zum Wasserfallmodell
+	Vor und Nachteile
+	Hauptphasen
+	Testphasen
