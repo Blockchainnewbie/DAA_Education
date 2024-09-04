@@ -5,3 +5,29 @@ Creation-Date: 2024-09-04T09:22:44+02:00
 ====== Vergleich mit SCRUM und Kanban ======
 Angelegt Mittwoch 04 September 2024
 
+Natürlich! Hier ist ein Vergleich zwischen dem Wasserfallmodell, Scrum und Kanban in einer übersichtlichen Tabelle:
+
+| Kriterium              | Wasserfallmodell                                                                                       | Scrum                                                                    | Kanban                                                                |
+|------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Vorgehensweise**     | Sequenziell, phasenorientiert                                                                          | Iterativ und inkrementell                                                | Kontinuierlicher Fluss                                                |
+| **Phasen/Iterationen** | Klar definierte Phasen (Anforderungsanalyse, Design, Implementierung, Testen, Bereitstellung, Wartung) | Sprints (2-4 Wochen)                                                     | Kontinuierlicher Fluss ohne festgelegte Iterationen                   |
+| **Flexibilität**       | Geringe Flexibilität, Änderungen sind schwierig                                                        | Hohe Flexibilität, Änderungen sind in jeder Iteration möglich            | Hohe Flexibilität, kontinuierliche Anpassung                          |
+| **Dokumentation**      | Umfangreiche Dokumentation in jeder Phase                                                              | Weniger formale Dokumentation, Fokus auf funktionierende Software        | Weniger formale Dokumentation, Fokus auf kontinuierliche Verbesserung |
+| **Rollen**             | Klar definierte Rollen (Projektmanager, Entwickler, Tester)                                            | Klar definierte Rollen (Product Owner, Scrum Master, Entwicklungsteam)   | Flexible Rollen, oft ohne spezifische Titel                           |
+| **Meetings**           | Regelmäßige Statusmeetings                                                                             | Tägliche Stand-ups, Sprint Planning, Sprint Review, Sprint Retrospective | Regelmäßige Stand-ups, keine festen Meeting-Strukturen                |
+| **Feedback**           | Spätes Feedback nach Abschluss jeder Phase                                                             | Frühes und regelmäßiges Feedback am Ende jeder Iteration                 | Kontinuierliches Feedback und Anpassung                               |
+| **Planung**            | Detailierte Vorabplanung                                                                               | Flexible Planung in jeder Iteration                                      | Kontinuierliche Planung und Anpassung                                 |
+| **Risikomanagement**   | Risiken werden früh identifiziert und dokumentiert                                                     | Risiken werden in jeder Iteration bewertet und angepasst                 | Risiken werden kontinuierlich bewertet und angepasst                  |
+| **Eignung**            | Geeignet für Projekte mit stabilen Anforderungen                                                       | Geeignet für Projekte mit sich ändernden Anforderungen                   | Geeignet für Projekte mit kontinuierlicher Verbesserung und Anpassung |
+| **Kommunikation**      | Formale Kommunikation und Dokumentation                                                                | Regelmäßige und informelle Kommunikation                                 | Regelmäßige und informelle Kommunikation                              |
+| **Ergebnisse**         | Endprodukt wird am Ende des Projekts geliefert                                                         | Inkrementelle Lieferung von funktionierender Software in jeder Iteration | Kontinuierliche Lieferung von funktionierender Software               |
+
+### Zusammenfassung
+
+- **Wasserfallmodell**: Eignet sich für Projekte mit klaren und stabilen Anforderungen. Es bietet eine strukturierte und kontrollierte Vorgehensweise, ist jedoch weniger flexibel und kann Probleme haben, wenn sich die Anforderungen ändern.
+
+- **Scrum**: Eignet sich für Projekte mit sich ändernden Anforderungen. Es bietet eine flexible und iterative Vorgehensweise, die regelmäßiges Feedback und Anpassungen ermöglicht. Scrum ist besonders nützlich für Softwareentwicklungsprojekte.
+
+- **Kanban**: Eignet sich für Projekte, die kontinuierliche Verbesserung und Anpassung erfordern. Es bietet eine flexible und kontinuierliche Vorgehensweise, die auf den Fluss und die Effizienz der Arbeit fokussiert ist. Kanban ist besonders nützlich für Projekte, die auf kontinuierliche Lieferung und Verbesserung abzielen.
+
+Jedes Modell hat seine eigenen Stärken und Schwächen, und die Wahl des richtigen Modells hängt von den spezifischen Anforderungen und Zielen des Projekts ab.

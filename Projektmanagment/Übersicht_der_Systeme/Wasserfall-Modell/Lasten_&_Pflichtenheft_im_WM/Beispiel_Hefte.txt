@@ -1,0 +1,138 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-04T09:24:46+02:00
+
+====== Beispiel Hefte ======
+Angelegt Mittwoch 04 September 2024
+
+Natürlich! Hier sind Beispiele für ein Lastenheft und ein Pflichtenheft für ein fiktives Projekt zur Entwicklung eines Buchhaltungssystems.
+
+### Beispiel Lastenheft
+
+#### 1. Einleitung
+- **Projektname**: Buchhaltungssystem
+- **Auftraggeber**: XYZ GmbH
+- **Zielsetzung**: Entwicklung eines benutzerfreundlichen Buchhaltungssystems zur Verwaltung der Finanzen des Unternehmens.
+
+#### 2. Anforderungen
+- **Funktionale Anforderungen**:
+  - **Rechnungsverwaltung**: Erstellung, Bearbeitung und Löschung von Rechnungen.
+  - **Zahlungsverwaltung**: Verwaltung von eingehenden und ausgehenden Zahlungen.
+  - **Berichtswesen**: Erstellung von Finanzberichten (z.B. Gewinn- und Verlustrechnung, Bilanz).
+  - **Benutzerverwaltung**: Verwaltung von Benutzerkonten und Zugriffsrechten.
+  - **Backup und Wiederherstellung**: Regelmäßige Backups und Möglichkeit zur Wiederherstellung von Daten.
+
+- **Nicht-funktionale Anforderungen**:
+  - **Performance**: Das System soll in der Lage sein, bis zu 1000 Transaktionen pro Minute zu verarbeiten.
+  - **Sicherheit**: Das System soll über sichere Authentifizierungs- und Autorisierungsmechanismen verfügen.
+  - **Benutzerfreundlichkeit**: Das System soll eine intuitive Benutzeroberfläche bieten.
+  - **Skalierbarkeit**: Das System soll skalierbar sein, um zukünftiges Wachstum zu unterstützen.
+
+#### 3. Rahmenbedingungen
+- **Budget**: 50.000 Euro
+- **Zeitrahmen**: 6 Monate
+- **Technische Einschränkungen**: Das System soll auf Windows- und Linux-Servern laufen.
+
+#### 4. Leistungsumfang
+- **Funktionen**: Alle oben genannten funktionalen Anforderungen.
+- **Dokumentation**: Benutzerhandbuch, technische Dokumentation, Schulungsunterlagen.
+- **Support**: 1 Jahr kostenloser Support nach der Bereitstellung.
+
+#### 5. Qualitätsanforderungen
+- **Verfügbarkeit**: Das System soll eine Verfügbarkeit von 99,9% aufweisen.
+- **Fehlertoleranz**: Das System soll in der Lage sein, Fehler zu erkennen und zu beheben, ohne dass es zu Datenverlust kommt.
+- **Benutzerfreundlichkeit**: Das System soll von Benutzern ohne spezielle Schulung bedient werden können.
+
+#### 6. Termine und Meilensteine
+- **Anforderungsanalyse**: 1 Monat
+- **Systemdesign**: 1 Monat
+- **Implementierung**: 2 Monate
+- **Testen**: 1 Monat
+- **Bereitstellung**: 1 Monat
+
+### Beispiel Pflichtenheft
+
+#### 1. Einleitung
+- **Projektname**: Buchhaltungssystem
+- **Auftraggeber**: XYZ GmbH
+- **Zielsetzung**: Technische Spezifikationen für die Entwicklung eines Buchhaltungssystems.
+
+#### 2. Systemarchitektur
+- **Architektur**: Client-Server-Architektur
+- **Technologie-Stack**:
+  - **Frontend**: HTML, CSS, JavaScript, React
+  - **Backend**: Node.js, Express
+  - **Datenbank**: PostgreSQL
+
+#### 3. Technische Spezifikationen
+- **Rechnungsverwaltung**:
+  - **Datenmodell**: Tabelle "Rechnungen" mit Feldern wie Rechnungsnummer, Datum, Betrag, Status.
+  - **API-Endpunkte**:
+	- POST /rechnungen (Erstellen einer neuen Rechnung)
+	- GET /rechnungen (Abrufen aller Rechnungen)
+	- PUT /rechnungen/{id} (Bearbeiten einer Rechnung)
+	- DELETE /rechnungen/{id} (Löschen einer Rechnung)
+
+- **Zahlungsverwaltung**:
+  - **Datenmodell**: Tabelle "Zahlungen" mit Feldern wie Zahlungsnummer, Datum, Betrag, Status.
+  - **API-Endpunkte**:
+	- POST /zahlungen (Erstellen einer neuen Zahlung)
+	- GET /zahlungen (Abrufen aller Zahlungen)
+	- PUT /zahlungen/{id} (Bearbeiten einer Zahlung)
+	- DELETE /zahlungen/{id} (Löschen einer Zahlung)
+
+- **Berichtswesen**:
+  - **Datenmodell**: Tabelle "Berichte" mit Feldern wie Berichtsnummer, Datum, Typ.
+  - **API-Endpunkte**:
+	- GET /berichte (Abrufen aller Berichte)
+	- POST /berichte (Erstellen eines neuen Berichts)
+
+- **Benutzerverwaltung**:
+  - **Datenmodell**: Tabelle "Benutzer" mit Feldern wie Benutzername, Passwort, Rolle.
+  - **API-Endpunkte**:
+	- POST /benutzer (Erstellen eines neuen Benutzers)
+	- GET /benutzer (Abrufen aller Benutzer)
+	- PUT /benutzer/{id} (Bearbeiten eines Benutzers)
+	- DELETE /benutzer/{id} (Löschen eines Benutzers)
+
+#### 4. Schnittstellenbeschreibung
+- **API-Schnittstellen**: RESTful API-Endpunkte für alle Funktionen.
+- **Benutzeroberfläche**: Webbasierte Benutzeroberfläche mit responsivem Design.
+
+#### 5. Datenmodell
+- **Datenbank**: PostgreSQL
+- **Tabellen**:
+  - Rechnungen (Rechnungsnummer, Datum, Betrag, Status)
+  - Zahlungen (Zahlungsnummer, Datum, Betrag, Status)
+  - Berichte (Berichtsnummer, Datum, Typ)
+  - Benutzer (Benutzername, Passwort, Rolle)
+
+#### 6. Benutzeroberfläche
+- **Design**: Responsives Design, das auf verschiedenen Geräten gut funktioniert.
+- **Funktionen**:
+  - **Rechnungsverwaltung**: Formulare und Tabellen zur Erstellung, Bearbeitung und Anzeige von Rechnungen.
+  - **Zahlungsverwaltung**: Formulare und Tabellen zur Erstellung, Bearbeitung und Anzeige von Zahlungen.
+  - **Berichtswesen**: Formulare und Tabellen zur Erstellung und Anzeige von Berichten.
+  - **Benutzerverwaltung**: Formulare und Tabellen zur Erstellung, Bearbeitung und Anzeige von Benutzern.
+
+#### 7. Testfälle
+- **Rechnungsverwaltung**:
+  - Testfall 1: Erstellung einer neuen Rechnung
+  - Testfall 2: Bearbeitung einer bestehenden Rechnung
+  - Testfall 3: Löschen einer Rechnung
+
+- **Zahlungsverwaltung**:
+  - Testfall 1: Erstellung einer neuen Zahlung
+  - Testfall 2: Bearbeitung einer bestehenden Zahlung
+  - Testfall 3: Löschen einer Zahlung
+
+- **Berichtswesen**:
+  - Testfall 1: Erstellung eines neuen Berichts
+  - Testfall 2: Anzeige aller Berichte
+
+- **Benutzerverwaltung**:
+  - Testfall 1: Erstellung eines neuen Benutzers
+  - Testfall 2: Bearbeitung eines bestehenden Benutzers
+  - Testfall 3: Löschen eines Benutzers
+
+Diese Beispiele zeigen, wie ein Lastenheft und ein Pflichtenheft für ein Buchhaltungssystem aussehen könnten. Das Lastenheft definiert die Anforderungen und Erwartungen des Auftraggebers, während das Pflichtenheft die technischen Spezifikationen und die detaillierte Umsetzung der Anforderungen beschreibt. Beide Dokumente sind entscheidend für den Erfolg des Projekts im Wasserfallmodell.

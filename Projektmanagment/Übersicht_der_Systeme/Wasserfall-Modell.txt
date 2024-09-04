@@ -7,83 +7,88 @@ Angelegt Mittwoch 04 September 2024
 
 Das Wasserfallmodell ist ein sequenzielles Modell im Projektmanagement, das besonders in der Softwareentwicklung und anderen technischen Projekten verwendet wird. Es ist ein linearer Ansatz, bei dem jede Phase des Projekts nacheinander abgeschlossen wird, bevor die nächste Phase beginnt. Hier ist eine detaillierte Erklärung des Modells:
 
-Aufbau des Wasserfallmodells
+### Aufbau des Wasserfallmodells
+
 Das Wasserfallmodell besteht aus mehreren aufeinanderfolgenden Phasen. Die typischen Phasen sind:
 
-Anforderungsanalyse:
+1. **Anforderungsanalyse**:
+   - Sammeln und Dokumentieren der Anforderungen des Projekts.
+   - Definition der Ziele und Erwartungen.
 
-Sammeln und Dokumentieren der Anforderungen des Projekts.
-Definition der Ziele und Erwartungen.
-Systemdesign:
+2. **Systemdesign**:
+   - Entwicklung der Architektur und des Designs des Systems.
+   - Erstellung von Spezifikationen und Diagrammen.
 
-Entwicklung der Architektur und des Designs des Systems.
-Erstellung von Spezifikationen und Diagrammen.
-Implementierung:
+3. **Implementierung**:
+   - Programmierung oder Entwicklung des Systems basierend auf dem Design.
+   - Erstellung von Code oder anderen technischen Komponenten.
 
-Programmierung oder Entwicklung des Systems basierend auf dem Design.
-Erstellung von Code oder anderen technischen Komponenten.
-Integration und Testen:
+4. **Integration und Testen**:
+   - Zusammenführen der einzelnen Komponenten zu einem vollständigen System.
+   - Durchführung von Tests, um sicherzustellen, dass das System den Anforderungen entspricht.
 
-Zusammenführen der einzelnen Komponenten zu einem vollständigen System.
-Durchführung von Tests, um sicherzustellen, dass das System den Anforderungen entspricht.
-Bereitstellung:
+5. **Bereitstellung**:
+   - Installation und Bereitstellung des Systems in der Produktionsumgebung.
+   - Schulung der Benutzer und Unterstützung bei der Einführung.
 
-Installation und Bereitstellung des Systems in der Produktionsumgebung.
-Schulung der Benutzer und Unterstützung bei der Einführung.
-Wartung:
+6. **Wartung**:
+   - Behebung von Fehlern und Durchführung von Updates nach der Bereitstellung.
+   - Unterstützung und Weiterentwicklung des Systems.
 
-Behebung von Fehlern und Durchführung von Updates nach der Bereitstellung.
-Unterstützung und Weiterentwicklung des Systems.
-Anwendung des Wasserfallmodells
+### Anwendung des Wasserfallmodells
+
 Das Wasserfallmodell wird häufig in Projekten angewendet, bei denen die Anforderungen klar definiert und stabil sind. Es eignet sich besonders für Projekte, bei denen die Änderungen während des Projektverlaufs minimal sind. Beispiele für solche Projekte sind:
 
-Softwareentwicklung: Entwicklung von Betriebssystemen, eingebetteten Systemen oder anderen Softwareprojekten mit klaren Anforderungen.
-Bauprojekte: Errichtung von Gebäuden oder Infrastrukturprojekten, bei denen die Planung und Ausführung in festen Phasen erfolgen.
-Produktentwicklung: Entwicklung von Hardwareprodukten, bei denen die Spezifikationen und Designs im Voraus festgelegt werden.
-Beispiel
+- **Softwareentwicklung**: Entwicklung von Betriebssystemen, eingebetteten Systemen oder anderen Softwareprojekten mit klaren Anforderungen.
+- **Bauprojekte**: Errichtung von Gebäuden oder Infrastrukturprojekten, bei denen die Planung und Ausführung in festen Phasen erfolgen.
+- **Produktentwicklung**: Entwicklung von Hardwareprodukten, bei denen die Spezifikationen und Designs im Voraus festgelegt werden.
+
+### Beispiel
+
 Angenommen, ein Unternehmen möchte ein neues Buchhaltungssystem entwickeln. Das Projekt könnte wie folgt ablaufen:
 
-Anforderungsanalyse:
+1. **Anforderungsanalyse**:
+   - Sammeln der Anforderungen von den verschiedenen Abteilungen (Finanzen, IT, etc.).
+   - Dokumentation der Funktionen und Features, die das System bieten soll.
 
-Sammeln der Anforderungen von den verschiedenen Abteilungen (Finanzen, IT, etc.).
-Dokumentation der Funktionen und Features, die das System bieten soll.
-Systemdesign:
+2. **Systemdesign**:
+   - Entwicklung der Systemarchitektur und des Datenmodells.
+   - Erstellung von Wireframes und Designspezifikationen.
 
-Entwicklung der Systemarchitektur und des Datenmodells.
-Erstellung von Wireframes und Designspezifikationen.
-Implementierung:
+3. **Implementierung**:
+   - Programmierung der einzelnen Module des Systems.
+   - Entwicklung der Benutzeroberfläche und der Datenbank.
 
-Programmierung der einzelnen Module des Systems.
-Entwicklung der Benutzeroberfläche und der Datenbank.
-Integration und Testen:
+4. **Integration und Testen**:
+   - Zusammenführen der Module zu einem vollständigen System.
+   - Durchführung von Unit-Tests, Integrationstests und Systemtests.
 
-Zusammenführen der Module zu einem vollständigen System.
-Durchführung von Unit-Tests, Integrationstests und Systemtests.
-Bereitstellung:
+5. **Bereitstellung**:
+   - Installation des Systems in der Produktionsumgebung.
+   - Schulung der Benutzer und Unterstützung bei der Einführung.
 
-Installation des Systems in der Produktionsumgebung.
-Schulung der Benutzer und Unterstützung bei der Einführung.
-Wartung:
+6. **Wartung**:
+   - Behebung von Fehlern und Durchführung von Updates basierend auf Benutzerfeedback.
+   - Regelmäßige Wartung und Weiterentwicklung des Systems.
 
-Behebung von Fehlern und Durchführung von Updates basierend auf Benutzerfeedback.
-Regelmäßige Wartung und Weiterentwicklung des Systems.
-Was du wissen musst, um das Wasserfallmodell anzuwenden
-Klare Anforderungen:
+### Was du wissen musst, um das Wasserfallmodell anzuwenden
 
-Stelle sicher, dass die Anforderungen zu Beginn des Projekts klar und vollständig definiert sind.
-Dokumentation:
+1. **Klare Anforderungen**:
+   - Stelle sicher, dass die Anforderungen zu Beginn des Projekts klar und vollständig definiert sind.
 
-Dokumentiere jede Phase gründlich, um sicherzustellen, dass alle Beteiligten auf dem gleichen Stand sind.
-Sequenzieller Ansatz:
+2. **Dokumentation**:
+   - Dokumentiere jede Phase gründlich, um sicherzustellen, dass alle Beteiligten auf dem gleichen Stand sind.
 
-Jede Phase muss abgeschlossen sein, bevor die nächste beginnt. Rückkehr zu vorherigen Phasen ist schwierig und teuer.
-Qualitätskontrolle:
+3. **Sequenzieller Ansatz**:
+   - Jede Phase muss abgeschlossen sein, bevor die nächste beginnt. Rückkehr zu vorherigen Phasen ist schwierig und teuer.
 
-Führe regelmäßige Tests und Überprüfungen durch, um sicherzustellen, dass das System den Anforderungen entspricht.
-Kommunikation:
+4. **Qualitätskontrolle**:
+   - Führe regelmäßige Tests und Überprüfungen durch, um sicherzustellen, dass das System den Anforderungen entspricht.
 
-Halte eine klare und regelmäßige Kommunikation mit allen Stakeholdern, um sicherzustellen, dass alle auf dem gleichen Stand sind.
-Risikomanagement:
+5. **Kommunikation**:
+   - Halte eine klare und regelmäßige Kommunikation mit allen Stakeholdern, um sicherzustellen, dass alle auf dem gleichen Stand sind.
 
-Identifiziere und mange Risiken frühzeitig, um potenzielle Probleme zu minimieren.
+6. **Risikomanagement**:
+   - Identifiziere und mange Risiken frühzeitig, um potenzielle Probleme zu minimieren.
+
 Das Wasserfallmodell ist ein strukturierter und systematischer Ansatz, der besonders für Projekte mit klaren und stabilen Anforderungen geeignet ist. Es bietet eine klare Struktur und Kontrolle, kann jedoch weniger flexibel sein als andere agile Methoden.

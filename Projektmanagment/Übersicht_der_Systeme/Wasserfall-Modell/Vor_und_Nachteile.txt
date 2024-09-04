@@ -5,45 +5,50 @@ Creation-Date: 2024-09-04T09:22:02+02:00
 ====== Vor und Nachteile ======
 Angelegt Mittwoch 04 September 2024
 
-Vorteile des Wasserfallmodells
-Klarheit und Struktur:
+Natürlich, hier sind die Vor- und Nachteile des Wasserfallmodells:
 
-Das Modell bietet eine klare und strukturierte Vorgehensweise, die leicht zu verstehen und zu implementieren ist.
-Dokumentation:
+### Vorteile des Wasserfallmodells
 
-Jede Phase wird gründlich dokumentiert, was die Nachvollziehbarkeit und Wartbarkeit des Projekts erleichtert.
-Einfache Planung und Kontrolle:
+1. **Klarheit und Struktur**:
+   - Das Modell bietet eine klare und strukturierte Vorgehensweise, die leicht zu verstehen und zu implementieren ist.
 
-Die sequenzielle Natur des Modells erleichtert die Planung und Kontrolle des Projektfortschritts.
-Klar definierte Meilensteine:
+2. **Dokumentation**:
+   - Jede Phase wird gründlich dokumentiert, was die Nachvollziehbarkeit und Wartbarkeit des Projekts erleichtert.
 
-Jede Phase hat klar definierte Meilensteine, die den Fortschritt des Projekts messbar machen.
-Geeignet für stabile Anforderungen:
+3. **Einfache Planung und Kontrolle**:
+   - Die sequenzielle Natur des Modells erleichtert die Planung und Kontrolle des Projektfortschritts.
 
-Das Modell eignet sich besonders gut für Projekte, bei denen die Anforderungen klar und stabil sind.
-Einfache Ressourcenplanung:
+4. **Klar definierte Meilensteine**:
+   - Jede Phase hat klar definierte Meilensteine, die den Fortschritt des Projekts messbar machen.
 
-Die sequenzielle Struktur erleichtert die Planung und Zuweisung von Ressourcen.
-Nachteile des Wasserfallmodells
-Geringe Flexibilität:
+5. **Geeignet für stabile Anforderungen**:
+   - Das Modell eignet sich besonders gut für Projekte, bei denen die Anforderungen klar und stabil sind.
 
-Änderungen in späteren Phasen sind schwierig und teuer, da jede Phase auf der vorherigen aufbaut.
-Risiko von Fehlern in frühen Phasen:
+6. **Einfache Ressourcenplanung**:
+   - Die sequenzielle Struktur erleichtert die Planung und Zuweisung von Ressourcen.
 
-Fehler oder unvollständige Anforderungen in den frühen Phasen können sich durch das gesamte Projekt ziehen und schwer zu korrigieren sein.
-Spätes Feedback:
+### Nachteile des Wasserfallmodells
 
-Da das Feedback erst nach Abschluss jeder Phase erfolgt, können Probleme erst spät im Projektverlauf erkannt werden.
-Lange Entwicklungszeit:
+1. **Geringe Flexibilität**:
+   - Änderungen in späteren Phasen sind schwierig und teuer, da jede Phase auf der vorherigen aufbaut.
 
-Die sequenzielle Natur des Modells kann zu einer längeren Entwicklungszeit führen, da jede Phase abgeschlossen sein muss, bevor die nächste beginnt.
-Hohe Abhängigkeit von der Anforderungsanalyse:
+2. **Risiko von Fehlern in frühen Phasen**:
+   - Fehler oder unvollständige Anforderungen in den frühen Phasen können sich durch das gesamte Projekt ziehen und schwer zu korrigieren sein.
 
-Das Modell ist stark abhängig von der Qualität und Vollständigkeit der Anforderungsanalyse. Unvollständige oder fehlerhafte Anforderungen können das gesamte Projekt gefährden.
-Schwierige Anpassung an Änderungen:
+3. **Spätes Feedback**:
+   - Da das Feedback erst nach Abschluss jeder Phase erfolgt, können Probleme erst spät im Projektverlauf erkannt werden.
 
-Das Modell ist weniger geeignet für Projekte, bei denen sich die Anforderungen häufig ändern oder unklar sind.
-Zusammenfassung
+4. **Lange Entwicklungszeit**:
+   - Die sequenzielle Natur des Modells kann zu einer längeren Entwicklungszeit führen, da jede Phase abgeschlossen sein muss, bevor die nächste beginnt.
+
+5. **Hohe Abhängigkeit von der Anforderungsanalyse**:
+   - Das Modell ist stark abhängig von der Qualität und Vollständigkeit der Anforderungsanalyse. Unvollständige oder fehlerhafte Anforderungen können das gesamte Projekt gefährden.
+
+6. **Schwierige Anpassung an Änderungen**:
+   - Das Modell ist weniger geeignet für Projekte, bei denen sich die Anforderungen häufig ändern oder unklar sind.
+
+### Zusammenfassung
+
 Das Wasserfallmodell bietet eine klare und strukturierte Vorgehensweise, die besonders für Projekte mit stabilen und klar definierten Anforderungen geeignet ist. Es erleichtert die Planung, Kontrolle und Dokumentation des Projekts. Allerdings ist es weniger flexibel und kann Probleme haben, wenn sich die Anforderungen ändern oder Fehler in frühen Phasen auftreten. Daher ist es wichtig, die Anforderungen gründlich zu analysieren und zu dokumentieren, bevor das Projekt beginnt.
 
 Für Projekte, bei denen Flexibilität und schnelle Anpassung an Änderungen erforderlich sind, könnten agile Methoden wie Scrum oder Kanban besser geeignet sein.

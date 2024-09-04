@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-04T09:24:11+02:00
+
+====== Lasten & Pflichtenheft im WM ======
+Angelegt Mittwoch 04 September 2024
+
+Das Lastenheft und das Pflichtenheft sind wichtige Dokumente im Projektmanagement, insbesondere im Kontext des Wasserfallmodells. Sie spielen eine entscheidende Rolle bei der Definition und Dokumentation der Anforderungen und der technischen Spezifikationen eines Projekts. Hier ist eine detaillierte Erklärung beider Dokumente und ihrer Bedeutung im Wasserfallmodell:
+
+### Lastenheft
+
+#### Definition
+Das Lastenheft ist ein Dokument, das die Anforderungen und Erwartungen des Auftraggebers an das zu entwickelnde System oder Produkt beschreibt. Es wird in der Anforderungsanalyse-Phase des Wasserfallmodells erstellt.
+
+#### Inhalt
+- **Zielsetzung**: Beschreibung der Ziele und des Zwecks des Projekts.
+- **Anforderungen**: Detaillierte Beschreibung der funktionalen und nicht-funktionalen Anforderungen.
+- **Rahmenbedingungen**: Beschreibung der Rahmenbedingungen und Einschränkungen, unter denen das Projekt durchgeführt wird.
+- **Leistungsumfang**: Beschreibung der erwarteten Leistungen und Funktionen des Systems.
+- **Qualitätsanforderungen**: Beschreibung der Qualitätskriterien und -standards, die das System erfüllen muss.
+- **Termine und Meilensteine**: Zeitliche Planung und wichtige Meilensteine des Projekts.
+
+#### Bedeutung im Wasserfallmodell
+Das Lastenheft ist das zentrale Dokument, das die Basis für alle nachfolgenden Phasen des Wasserfallmodells bildet. Es stellt sicher, dass alle Beteiligten ein klares Verständnis der Anforderungen und Erwartungen haben. Da das Wasserfallmodell sequenziell ist, müssen die Anforderungen zu Beginn des Projekts klar und vollständig definiert sein, um spätere Änderungen zu minimieren.
+
+### Pflichtenheft
+
+#### Definition
+Das Pflichtenheft ist ein Dokument, das die technischen Spezifikationen und die detaillierte Umsetzung der Anforderungen beschreibt. Es wird in der Systemdesign-Phase des Wasserfallmodells erstellt.
+
+#### Inhalt
+- **Systemarchitektur**: Beschreibung der Architektur und des Designs des Systems.
+- **Technische Spezifikationen**: Detaillierte Beschreibung der technischen Anforderungen und Spezifikationen.
+- **Schnittstellenbeschreibung**: Beschreibung der Schnittstellen zu anderen Systemen oder Komponenten.
+- **Datenmodell**: Beschreibung des Datenmodells und der Datenstrukturen.
+- **Benutzeroberfläche**: Beschreibung der Benutzeroberfläche und der Benutzerinteraktionen.
+- **Testfälle**: Beschreibung der Testfälle und -szenarien, die zur Validierung des Systems verwendet werden.
+
+#### Bedeutung im Wasserfallmodell
+Das Pflichtenheft ist das Dokument, das die technische Umsetzung der im Lastenheft definierten Anforderungen beschreibt. Es dient als Leitfaden für die Entwickler und stellt sicher, dass alle technischen Details und Spezifikationen klar und vollständig definiert sind. Da das Wasserfallmodell sequenziell ist, müssen die technischen Spezifikationen zu Beginn der Implementierungsphase klar und vollständig definiert sein, um spätere Änderungen zu minimieren.
+
+### Zusammenfassung
+
+- **Lastenheft**: Definiert die Anforderungen und Erwartungen des Auftraggebers. Es wird in der Anforderungsanalyse-Phase erstellt und bildet die Basis für alle nachfolgenden Phasen.
+- **Pflichtenheft**: Definiert die technischen Spezifikationen und die detaillierte Umsetzung der Anforderungen. Es wird in der Systemdesign-Phase erstellt und dient als Leitfaden für die Entwickler.
+
+Beide Dokumente sind entscheidend für den Erfolg eines Projekts im Wasserfallmodell, da sie sicherstellen, dass alle Beteiligten ein klares Verständnis der Anforderungen und der technischen Umsetzung haben. Sie tragen dazu bei, dass das Projekt strukturiert und kontrolliert abläuft und dass die Ergebnisse den Erwartungen des Auftraggebers entsprechen.

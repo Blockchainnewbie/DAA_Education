@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-04T09:25:35+02:00
+
+====== Verantwortliche ======
+Angelegt Mittwoch 04 September 2024
+
+Die Erstellung des Lastenhefts und des Pflichtenhefts erfordert die Zusammenarbeit verschiedener Stakeholder und Rollen im Projekt. Hier ist eine Übersicht darüber, wer typischerweise an der Erstellung dieser Dokumente beteiligt ist:
+
+### Lastenheft
+
+#### Verantwortliche:
+- **Auftraggeber**: Der Auftraggeber ist der Hauptverantwortliche für die Erstellung des Lastenhefts. Er definiert die Anforderungen und Erwartungen an das Projekt.
+- **Fachabteilungen**: Vertreter der Fachabteilungen, die das System nutzen werden, tragen ihre spezifischen Anforderungen und Erwartungen bei.
+- **Projektmanager**: Der Projektmanager koordiniert die Erstellung des Lastenhefts und stellt sicher, dass alle relevanten Anforderungen erfasst werden.
+- **Business Analysten**: Business Analysten unterstützen den Auftraggeber und die Fachabteilungen bei der Dokumentation der Anforderungen und der Erstellung des Lastenhefts.
+
+#### Prozess:
+1. **Anforderungsanalyse**: Der Auftraggeber und die Fachabteilungen definieren ihre Anforderungen und Erwartungen.
+2. **Dokumentation**: Die Anforderungen werden von den Business Analysten und dem Projektmanager dokumentiert.
+3. **Überprüfung und Freigabe**: Das Lastenheft wird vom Auftraggeber und den Fachabteilungen überprüft und freigegeben.
+
+### Pflichtenheft
+
+#### Verantwortliche:
+- **Auftragnehmer**: Der Auftragnehmer (oft ein IT-Dienstleister oder eine Entwicklungsabteilung) ist der Hauptverantwortliche für die Erstellung des Pflichtenhefts.
+- **Systemarchitekten**: Systemarchitekten definieren die technische Architektur und die Spezifikationen des Systems.
+- **Entwickler**: Entwickler tragen zur Definition der technischen Details und der Implementierung bei.
+- **Projektmanager**: Der Projektmanager koordiniert die Erstellung des Pflichtenhefts und stellt sicher, dass alle technischen Spezifikationen klar und vollständig definiert sind.
+- **Business Analysten**: Business Analysten unterstützen den Auftragnehmer bei der Übersetzung der Anforderungen aus dem Lastenheft in technische Spezifikationen.
+
+#### Prozess:
+1. **Systemdesign**: Der Auftragnehmer und die Systemarchitekten entwickeln die technische Architektur und die Spezifikationen des Systems.
+2. **Dokumentation**: Die technischen Spezifikationen werden von den Entwicklern und den Systemarchitekten dokumentiert.
+3. **Überprüfung und Freigabe**: Das Pflichtenheft wird vom Auftraggeber und den Fachabteilungen überprüft und freigegeben.
+
+### Zusammenarbeit und Kommunikation
+
+Die Erstellung des Lastenhefts und des Pflichtenhefts erfordert eine enge Zusammenarbeit und Kommunikation zwischen dem Auftraggeber und dem Auftragnehmer. Regelmäßige Meetings und Workshops sind notwendig, um sicherzustellen, dass alle Anforderungen und technischen Spezifikationen klar und vollständig definiert sind.
+
+### Zusammenfassung
+
+- **Lastenheft**: Wird hauptsächlich vom Auftraggeber und den Fachabteilungen erstellt, unterstützt durch Business Analysten und den Projektmanager.
+- **Pflichtenheft**: Wird hauptsächlich vom Auftragnehmer, den Systemarchitekten und den Entwicklern erstellt, unterstützt durch Business Analysten und den Projektmanager.
+
+Beide Dokumente sind das Ergebnis einer engen Zusammenarbeit und Kommunikation zwischen den verschiedenen Stakeholdern und Rollen im Projekt. Sie bilden die Grundlage für den Erfolg des Projekts im Wasserfallmodell.
