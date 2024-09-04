@@ -1,0 +1,184 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T14:46:39+02:00
+
+====== Hardware ======
+Angelegt Dienstag 03 September 2024
+
+===== Grundlagen =====
+* Definition
+	o	Physische Komponenten eines datenverarbeitenden Systems
+* Kategorien
+	o	Zentraleinheit  (je nach Betrachtung)
+			Hardware, die Computer prinzipiell funktionstüchtig macht
+			Komponenten: CPU (Prozessor), Ram (Arbeitsspeicher), Mainboard, Busse, Cache-Speicher, Clock (Systemuhr), BIOS
+	o	Peripherie
+			Geräte, die an Zentraleinheit angeschlossen werden und Nutzen / Funktionen erweitern
+			Unterscheidung
+* Eingabegeräte / Einlesegeräte
+	o	z.B.: Tastatur, Maus, Sensoren, Mikrofon
+* Ausgabegeräte
+	o	z.B.: Bildschirm, Drucker, Lautsprecher
+* Ein-/Ausgabegeräte (Multifunktionsgeräte)
+	o	z.B.: Drucker mit Scanfunktion, Kopfhörer mit Mikrofon
+			Weitere Unterscheidung
+* Intern: z.B. Grafikkarte, Soundkarte, Netzwerkkarte
+* Extern: z.B. Laufwerke, Webcam, externe Festplatte
+* Personal Computer
+	o	Desktop-PC
+			Computer in Gehäuseform, passend für Einsatz als Arbeitsplatzrechner auf / unter Schreibtischen
+			Allzweckrechner, begrenzt durch limitierte Leistungsfähigkeit
+			erweiterbar
+	o	Kompakt-Desktoprechner
+			Sehr kleine Bauweise, Größe DVD und nur ca. 10cm hoch
+			Alternative Bauweise: In Bildschirm integriert (All-in-one-Computer)
+			Vorteile: Platzsparend, günstig, energiesparend, transportabel, leise
+			Nachteile: weniger Leistung, kaum/gar nicht erweiterbar, weniger Anschlüsse, Hitzeprobleme
+	o	Laptops / Notebooks
+			All-in-One-Computer für unterwegs
+			Hybridgeräte: Kombi Laptop & Tablet (z.B. Microsoft Surface Pro)
+	o	Netbooks
+			Kleiner als Laptops
+			Sparsamer ausgestattet
+
+
+
+
+
+
+
+===== Zentraleinheit =====
+* CPU – Central Processing Unit
+	o	Auch: Prozessor, Mikroprozessor, Hauptprozessor, zentrale Recheneinheit, zentrale Verarbeitungseinheit
+	o	Herzstück des Computers, min. einer – max. zwei, Dualcore oder Multicore = mehrere CPU-Kerne in einem Gehäuse (Betriebssystem / Anwendungsprogramme müssen Verteilung Arbeit auf mehrere Prozessorkerne unterstützen)
+	o	GPU: Graphic Processing Unit – für schnelle Fließkomma- und Vektoroperationen optimiert, aber auch für schnelle Rechenoperationen in Bereichen wie Machine Learning 
+	o	programmierbares Rechen- und Steuerwerk = elektronische Schaltung, kann gemäß übergebener Befehle Aktionen ausführen, hochkomplexe Form integrierter Schaltkreise
+* RAM – Random Access Unit
+	o	Auch: Arbeitsspeicher, flüchtiger Speicher
+	o	Enthält während Laufzeit gerade ausgeführte verwendete Programme und deren verwendete Daten
+	o	Moderne Betriebssysteme
+			Virtuelle Speicheradressierung = Abstrahiert von Programmen verwendete Speicheradressen von physikalischen Adressen  ermöglicht Auslagern nicht benötigter Inhalte auf Festplatte
+			System on a chip
+	o	Früher: Nur in Smartphones und Tablets
+	o	Heute: z.B. Apple mit M1 / M2  Multicore-Prozessor + GPU + 8 – 128 GB RAM in einem Gehäuse 
+			Hälfte Prozessorkerne für hohe Rechengeschwindigkeit optimiert, andere Hälfte für möglichst niedrigen Akkuverbrauch  je nach Anwendung & Akkuladestand eine der beiden Kernarten bevorzugt
+* ROM – Read Only Memory
+	o	Früher: Gesamtes Betriebssystem und andere Programme
+	o	Heute: Ein Programm, das beim Einschalten wichtigste Hardwarekomponenten überprüft und dann Booten von Datenträger startet
+	o	Benennung
+			Intel: BIOS
+			Ältere Macintosh-Rechner: ROM
+	o	Heutige Spezialcomputer
+			Fest in ROM eingebaute Betriebssysteme & Anwendungsprogramme
+			z.B. Industrie-PC’s, Embedded Systems = eingebaute Computer (z.B. in Automotoren, Spülmaschinen, Produktionsanlagen)
+* Chipsatz
+	o	Auch: Chipset
+	o	Fest auf Mainboard verlötet
+	o	Gruppe von Schaltkreisen mit speziellen Steuerungsaufgaben
+			Vor allem: Steuerfunktion für sämtliche Anschlüsse des Mainboards
+	o	Qualität der unterschiedlichen Chipsätze hat erheblichen Einfluss auf Performance eines Rechners
+* Busse / Schnittstellen
+	o	Kommunikation zwischen Bestandteilen des Mainboards
+	o	Anschluss aller Arten von Peripheriekomponenten
+	Aufbau und Aufgaben des Prozessors
+* Aufbau
+	o	Komplexe integrierte Schaltkreise mit mehreren Hundert Millionen Transistoren pro Kern
+	o	Schaltungen mittels fotolithografischer Verfahren auf Siliziumscheiben aufgebracht  Fortschritte im Verfahren ermöglichen höhere Integrationsdichte
+	o	Unterschiedliche Bauformen und Sockel  Kompatibilität mit Mainboard notwendig
+* Technischer Überblick – Schematische Bestandteile
+	o	ALU (Arithmetic-Logical Unit): mathematische Operationen, logische Verknüpfungen
+			Heute: getrennte ALUs für ganzzahlige Operationen und Fließkommaoperationen
+			Fließkommakomponente = FPU (Floating Point Unit)
+			GPUs schneller beim Berechnen von Fließkommaoperationen, aber stromhungriger und kühlungsbedürftiger
+	o	Register: einzelne spezialisierte Speicherstellen im Prozessorkern
+			ALU rechnet vor allem mit Werten, die in Register abgelegt sind
+			Nicht zur längerfristigen Ablage von Informationen
+			Nur wenige Register pro Prozessor (z.B. 32 Stück)
+	o	Steuerwerk (Control Unit): Kontrolle über Ausführung des Programmcodes, initiiert andere Steuerungsfunktionen, Multitasking  durch Zusammenarbeit mit Mechanismen des Betriebssystems für sauberen Wechsel zwischen Prozessen sorgen
+			Befehlszeiger: spezielles Register, verweist auf Speicheradresse des als nächstes auszulesenden Programmbefehl
+			Stack-Zeiger (Stack Pointer): zeigt aktuelle Position auf Stack 
+	o	Befehlstabelle (Instruction Table): Decodierung Maschinenbefehle im Computerprogramm
+			Jeder aus Programm gelesener Befehl besitzt bestimmten numerischen Wert  Je nach Befehlsnummer unterschiedliche Schaltungen aktiviert  Schaltung bewirkt bestimmtes Verhalten des Prozessors
+	o	Busse (Datenleitungen): Verbindung zu anderen Komponenten des Mainboards
+			Datenbus = Datenaustausch mit Arbeitsspeicher
+			Adressbus: überträgt zugehörige Speicheradressen
+			Steuerbus: Ansteuerung Peripherieanschlüsse
+			Gehört nicht zum Prozessorkern, daher CPU nur ein Bussystem, egal wie viele Kerne
+	o	Caches: Kleine und sehr schnelle Zwischenspeicher (zwischen Prozessor und RAM) zur Ablage von zeitnah wieder benötigten Daten unter Verwendung einer mehrstufigen Speicherarchitektur
+			Level-1-Cache (L1-Cache): in jedem Prozessorkern einmal untergebracht, gleiche Taktrate wie Kern, sehr klein (circa 32-64 KB)
+			* Vornehmliche Verwendung bei Ausführung sehr kurzer Schleifen aus wenigen Befehlen
+			Level-2-Cache (L2-Cache): im Prozessor aber nicht im Kern, pro Prozessor nur ein L2-Cache, Taktrate höher als beim Arbeitsspeicher aber geringer als beim Prozessor, erheblich größer als L1-Cache (z.B. 256, 512 oder 1024 KB)
+			* Zwischenspeicherung Daten aus Arbeitsspeicher
+			Level-3-Cache (L3-Cache): bei Multicore-Prozessoren in der Regel integriert, im Prozessor am weitesten von Kern entfernt, langsamere Speicherbausteine als der L2-Cache, erheblich größer als L2-Cache (z.B. 16 oder 64MB)
+			* Beschleunigung des Cache-Kohärenz-Protokolls von Multicore-Prozessoren und des Datenaustauschs zwischen Kernen
+			* Cache-Kohärenz-Protokoll = Gleicht Caches aller Kerne ab um Datenkonsistenz zu erhalten
+			Arbeitsspeicher: Speicherung gerade ausgeführte Programme und deren Daten
+			* Taktrate alt = Taktrate Mainboard, Taktrate neu = 2-,4- oder 8-fache Taktrate Mainboard
+			Festplatte: Auslagerung wenig benötigter Inhalte auf Festplatte, falls  Arbeitsspeicher nicht ausreicht = Swapping, Paging
+			* Von modernen Prozessoren durch MMU (Memory Management Unit) unterstützt
+	o	Weiteres:
+			Branch Prediction (Sprungvorhersage): Während Programmausführung vom Prozessor berechnet, wohin nächster Sprung am wahrscheinlichsten führt --> Prozessor entscheidet ob Programmteile / Daten in Cache oder nicht
+			Multiprocessing: Computer mit zwei oder mehr Prozessoren (meist als Server oder Hochleistungsrechner)
+			Multitasking: quasi nebenläufige Ausführung mehrere Tasks, verschiedene Prozesse in sehr kurzen Abständen abwechselnd aktiviert um Eindruck von Gleichzeitigkeit zu erwecken
+			Threading, Multithreading, Hyperthreading: Ein Prozessorkern bildet zwei virtuelle Prozessorkern und arbeitet so zwei Aufgaben (Threads) gleichzeitig ab 
+* Leistungsmerkmale
+	o	Integrationsdichte
+	o	Wortbreite: Wert, der angibt, aus wie vielen Bits ein Maschinenwort des Prozessors besteht (Je breiter ein Maschinenwort, desto mehr unterschiedliche Zustände / Werte kann Prozessor pro Durchgang bearbeiten)
+			Register: Rechenfähigkeit der ALU = mögliche Größe von Ganzzahlen, Genauigkeit von Fließkommawerten
+			Datenbus: Menge an Bits, die gleichzeitig aus Arbeitsspeicher gelesen / in ihn geschrieben werden können (Datenaustausch von Programmen, Datenbreite des Prozessors)
+			Adressbus: maximale Größe von Speicheradressen = wie viel Arbeitsspeicher kann Prozessor adressieren
+			Steuerbus: welche Arten von Peripherieanschlüssen kann Prozessor lesen
+	o	Taktfrequenz (Clock Rate): Vielfaches des Mainboard-Takts (Front Side Bus Clock Rate)  Auf Mainboard ist Steckbrücke (Jumper) oder DIP-Schalter mit einstellbarem Multiplikator = Gibt an, mit welchem Vielfachen der FSB-Taktrate der Prozessor arbeitet
+			Übertakten (Overclocking): Erhöhung des Multiplikators über vom Hersteller angegebenen Wert um höhere Taktrate zu erreichen
+* Nachteile: Schnelle Überhitzung möglich, kürzere Lebenszeit, wenig hilfreich bei hoher Komplexität von Befehlen
+	o	MIPS (Million Instructions per Second): Anzahl Befehle, die pro Sekunde ausgeführt werden können
+			Gemessen durch Benchmark-Tests
+	o	FLOPS ( Floating Point Operations per Second): Anzahl der pro Sekunde durchführbaren Fließkommaoperationen
+			Besonders wichtig für 3D-Grafik, Audio- / Videoperformance
+* Prozessorarchitekturen
+	o	CISC (Complex Instruction Set Computer): immer mehr und immer komplexere Anweisungen unmittelbar durch einzelne Prozessorinstruktionen verwirklichen
+			Hauptvertreter: Intel, AMD Ryzen & Athlon
+			Heute RISC-Ansätze in CISC Prozessoren
+	o	RISC (Reduced Instruction Set Computer): Befehlssatz auf wenige besonders schnell und einfach auszuführende Befehle reduziert (Komplexe Funktionen durch Aneinanderreihung einfacher Instruktionen)  Befehlsausführung beschleunigt, Anordnung in Pipelines (Warteschlagen) möglich um Befehle effizient nacheinander auszuführen
+			Hauptvertreter: PowerPC von Apple
+			Vorteile: Bessere Performance
+			Nachteile: Benötigt mehr Arbeitsspeicher 
+* Arbeitsweise
+	o	Schematisch
+		1. Aktueller Befehl aus Programm gelesen; Stelle durch Befehlsanzeiger des Prozessors angezeigt
+		2. Prozessor schlägt Nummer des Befehls in Befehlstabelle nach, liest passende Anzahl darauffolgender Bytes als Parameter des Befehls; Befehlszeiger rückt hinter letztes Parameterbyte um für nächsten Befehl bereit zu sein
+		3. Ausführung Befehl (komplexester Teil) = Daten aus Arbeitsspeicher lesen / in ihn schreiben, Ansteuerung Peripherieschnittstellen, Rechnen in der ALU, Durchführung eines Sprungs im Programm
+		4. Falls Sprung  Befehlszeiger an entsprechende neue Position / Kein Sprung  Weiter an aus Parameter ermittelten Stelle
+	o	Sprünge
+			Unbedingter Sprung: Ausführung, sobald entsprechender Befehl gelesen
+			Bedingter Sprung: Ausführung nur, wenn bestimmte Bedingungen zutreffen
+* Bedingungen meist Zustände aus Flag-Register
+	o	Flags = Status-Bits, deren Werte durch Vergleichsoperationen, Fehler oder direkte Manipulation durch ein Programm gesetzt werden
+			Aufruf von Unterprogrammen
+			* Speicherung der Adresse, die auf Sprungbefehl folgt mittels Last-in-first-out-Speicher = Stack
+			* Ende des Unterprogramms  Rücksprungbefehl  Programm holt obersten Wert vom Stack und springt zur angegebenen Programmadresse
+			* Adresse, die zu diesem Zeitpunkt Abschluss des Stacks bildet von Stack Pointer (spezielles Steuerregister) angezeigt
+	o	Nicht lineare Ausführung von Programmen
+			CPU führt abwechselnd Befehle mehrerer Programme aus 
+			Vor Wechsel anderer Prozess wird Zustand aktueller Prozess (= Inhalte der Prozessorregister) gespeichert
+			Wideraufnahme des Prozesses durch Zurücksetzung Inhalte Prozessorregister  Aus Prozessorsicht Ausführung ohne Unterbrechung
+			Bei Multicore-Prozessoren tatsächlich mehrere Programme gleichzeitig, aber wenn auf dieselbe einmalig vorhandene Ressource zugreifen, müssen sie ggf. aufeinander warten
+	o	Interrupts: Anfragen von Hardware an Prozessor asynchron  Prozessor fragt in regelmäßigen Abständen ab, ob ein Gerät auf Antwort wartet
+			Dafür ggf. laufende Prozesse unterbrochen zugunsten Hardwarekommunikation
+	o	Stack Overflow  häufiges Sicherheitsproblem
+			Rekursiver Programmcode: ruft sich selbst als Unterprogramm zur Lösung verschachtelter Probleme auf
+			Enthält keine korrekte Abbruchbedingung  Stack irgendwann voll 
+			Sobald Stack Overflow  Oberste Adresse des Stack durch Startadresse eines schädlichen Programms ersetzt  nächster Sprung startet Schadsoftware
+* Maschinenbefehle
+	o	Maschineninstruktionen sind immer Rechenschritte = Manipulation numerischer Werte
+			Bsp.: Vergleiche das Register BX mit dem Wert 20: CMP BX,20
+			Falls der Vergleichsbefehl >>gleich<< ergeben hat (ein bestimmtes Flag enthält den Wert 0), spring zur Programmadresse C9A4: JE $C9A4 (JE = Jump if equals)
+	o	Assembler-Sprache (s.Bsp. oben): Vereinfachende Abstraktion der Maschinensprache (Befehle in Wirklichkeit aus Zahlen)
+			Bsp. Intel-Assembler: MOV BX, $9A33 (Operation Ziel, Quelle = Operanden Ziel und Quelle mit Operation MOV verknüpft und in Ziel gespeichert)
+			MOV-Befehl: Nicht ein Befehl sondern Befehlssammlung mit Gemeinsamkeit bestimmten Wert an bestimmter Stelle abzulegen
+			Assembler-Sprache abhängig von Prozessorhersteller
+			Assembler-Sprache muss in Maschinensprache assembliert werden
+	o	Übersetzung von Hochsprachen
+			Programm in Hochsprache mittels Compiler übersetzt 
+			Programm läuft nur auf Prozessor, für den es kompiliert wurde, weil es Maschinenbefehle für diesen Prozessor enthält
+			Programm läuft nur unter Betriebssystem, unter dem es kompiliert wurde  Programm nicht nur aus Maschinensprachanweisungen, sondern auch aus Funktionen, die durch Routine des Betriebssystems bereitgestellt werden und vom Programm mittels Systemaufrufen angesprochen werden (z.B. Ein- und Ausgabe)

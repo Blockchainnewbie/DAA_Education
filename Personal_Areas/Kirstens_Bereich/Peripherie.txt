@@ -1,0 +1,79 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T14:44:53+02:00
+
+====== Peripherie ======
+Angelegt Dienstag 03 September 2024
+
+===== Eingabegeräte =====
+* Tastatur
+	o	Funktion: Eingabe von Texten und Befehlen
+	o	Typen: Mechanische, Membran-, virtuelle Tastaturen
+	o	Schnittstellen: USB, kabellos (Bluetooth), PS/2
+* Maus
+	o	Funktion: Steuerung Maus, Interaktion grafische Benutzeroberfläche
+	o	Typen: Optisch, Laser, Trackball
+	o	Schnittstellen: USB, kabellos (Bluetooth, Funk)
+* Touchpad
+	o	Funktion: Berührungsempfindliche Fläche Steuerung Mauszeiger
+	o	Gestenunterstützung; Mehrfingergesten für erweiterte Funktionen
+* Scanner
+	o	Funktion: Digitalisiert physische Dokumente und Bilder
+	o	Typen: Flachbett-, Einzug-, Handscanner
+	o	Auflösung: in DPI (Dots per Inch) gemessen, bestimmt Bildqualität
+* Joystick
+	o	Funktion: Eingabegerät für Spiele, steuert Bewegungen und Aktionen
+	o	Typen: Standard-Joysticks, Flightsticks, Gamepads
+	o	Schnittstellen: USB, kabellos (Bluetooth)
+
+===== Ausgabegeräte =====
+* Monitor
+	o	Funktion: Anzeige von visuellen Informationen
+	o	Typen: LCD, LED, OLED, Curved, Touchscreen
+	o	Auflösung: Bestimmt Bildqualität, z.B. Full HD, 4K
+* Drucker
+	o	Funktion: Gibt digitale Dokumente auf Papier aus
+	o	Typen: Tintenstrahl, Laser, Thermodrucker, Multifunktionsdrucker
+	o	Druckauflösung: In DPI, bestimmt Bildqualität
+	o	Schnittstellen: USB, Netzwerk, kabellos (WiFi)
+* Lautsprecher
+	o	Funktion: Gibt Audiosignale aus
+	o	Typen: Aktivlautsprecher (eingebauter Verstärker), Passivlautsprecher, 2.1- und 5.1- Surround-System
+	o	Anschlüsse: 3,5mm-Klinke, USB, Bluetooth, optisch (TOSLINK)
+* Projektor
+	o	Funktion: Überträgt Bildinhalte auf große Fläche
+	o	Typen: LCD, DLP, LED, Laserprojektoren
+	o	Auflösung: Ähnlich Monitore
+	o	Anschlüsse: HDMI, VGA, USB, kabellos (WiFi)
+
+===== Speichergeräte =====
+* Externe Festplatten
+	o	Funktion: Tragbares Speichermedium Sicherung großer Datenmengen
+	o	Kapazität: üblich 500GB bis mehrere TB
+	o	Schnittstellen: USB, Thunderbolt, eSATA
+	o	Typen: HDD, SSD
+* USB-Stick
+	o	Funktion: Kompakter, tragbarer Speicher Datenübertragung /-sicherung
+	o	Kapazität: üblich 8GB bis 512GB oder mehr
+	o	Schnittstellen: USB 2.0, USB 3.0, USB-C
+* Speicherkarten
+	o	Funktion: Speichererweiterung in Kameras, Handys, etc.
+	o	Typen: SD, microSD, CompactFlash
+	o	Kapazität: üblich 16GB bis 1TB
+	o	Geschwindigkeit: Bestimmt durch Klassen (Class 10, UHS-I, UHS-II), wichtig für Videoaufnahmen in hoher Qualität
+
+===== Netzwerkgeräte =====
+* Router
+	o	Funktion: Verbindet Geräte in einem Netzwerk und mit Internet
+	o	Typen: Kabelrouter, WLAN-Router, Mesh-Router
+	o	Funkstandards: Wi-Fi 5 (802.11 ac), Wi-Fi 6 (802.11 ax)
+	o	Schnittstellen: LAN-Ports, WAN-Port, USB, WLAN (2,4 & 5 GHz)
+* Modem
+	o	Funktion: Wandelt digitale Signale in analoge und umgekehrt, ermöglicht Internetzugang
+	o	Typen: DSL-Modem, Kabelmodem, Glasfaser-Modem
+	o	Anschlüsse: Telefonbuchse, Kabelanschluss, Glasfaseranschluss, Ethernet-Port
+* Netzwerkkarte
+	o	Funktion: Verbindung Computer zu Netzwerk
+	o	Typen: Ethernet (LAN) Karten, WLAN-Karten
+	o	Geschwindigkeit: 10/100/1000 Mbps (Gigabit Ethernet) oder mehr
+	o	Schnittstellen: RJ45 für Ethernet, Antennenanschluss für WLAN
