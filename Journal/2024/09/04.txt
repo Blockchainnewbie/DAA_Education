@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-04T08:47:37+02:00
+
+====== Mittwoch 04 Sep 2024 ======
+
+Projektmanagment
+	Wasserfall Modell
