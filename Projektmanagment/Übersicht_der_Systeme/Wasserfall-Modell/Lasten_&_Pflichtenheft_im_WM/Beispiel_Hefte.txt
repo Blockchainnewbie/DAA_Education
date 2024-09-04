@@ -52,19 +52,19 @@ Natürlich! Hier sind Beispiele für ein Lastenheft und ein Pflichtenheft für e
 
 ===== Beispiel Pflichtenheft =====
 
-#### 1. Einleitung
+==== 1. Einleitung ====
 - **Projektname**: Buchhaltungssystem
 - **Auftraggeber**: XYZ GmbH
 - **Zielsetzung**: Technische Spezifikationen für die Entwicklung eines Buchhaltungssystems.
 
-#### 2. Systemarchitektur
+==== 2. Systemarchitektur ====
 - **Architektur**: Client-Server-Architektur
 - **Technologie-Stack**:
   - **Frontend**: HTML, CSS, JavaScript, React
   - **Backend**: Node.js, Express
   - **Datenbank**: PostgreSQL
 
-#### 3. Technische Spezifikationen
+==== 3. Technische Spezifikationen ====
 - **Rechnungsverwaltung**:
   - **Datenmodell**: Tabelle "Rechnungen" mit Feldern wie Rechnungsnummer, Datum, Betrag, Status.
   - **API-Endpunkte**:
@@ -95,11 +95,11 @@ Natürlich! Hier sind Beispiele für ein Lastenheft und ein Pflichtenheft für e
 	- PUT /benutzer/{id} (Bearbeiten eines Benutzers)
 	- DELETE /benutzer/{id} (Löschen eines Benutzers)
 
-#### 4. Schnittstellenbeschreibung
+==== 4. Schnittstellenbeschreibung ====
 - **API-Schnittstellen**: RESTful API-Endpunkte für alle Funktionen.
 - **Benutzeroberfläche**: Webbasierte Benutzeroberfläche mit responsivem Design.
 
-#### 5. Datenmodell
+==== 5. Datenmodell ====
 - **Datenbank**: PostgreSQL
 - **Tabellen**:
   - Rechnungen (Rechnungsnummer, Datum, Betrag, Status)
@@ -107,7 +107,7 @@ Natürlich! Hier sind Beispiele für ein Lastenheft und ein Pflichtenheft für e
   - Berichte (Berichtsnummer, Datum, Typ)
   - Benutzer (Benutzername, Passwort, Rolle)
 
-#### 6. Benutzeroberfläche
+==== 6. Benutzeroberfläche ====
 - **Design**: Responsives Design, das auf verschiedenen Geräten gut funktioniert.
 - **Funktionen**:
   - **Rechnungsverwaltung**: Formulare und Tabellen zur Erstellung, Bearbeitung und Anzeige von Rechnungen.
@@ -115,7 +115,7 @@ Natürlich! Hier sind Beispiele für ein Lastenheft und ein Pflichtenheft für e
   - **Berichtswesen**: Formulare und Tabellen zur Erstellung und Anzeige von Berichten.
   - **Benutzerverwaltung**: Formulare und Tabellen zur Erstellung, Bearbeitung und Anzeige von Benutzern.
 
-#### 7. Testfälle
+==== 7. Testfälle ====
 - **Rechnungsverwaltung**:
   - Testfall 1: Erstellung einer neuen Rechnung
   - Testfall 2: Bearbeitung einer bestehenden Rechnung
@@ -141,7 +141,7 @@ Diese Beispiele zeigen, wie ein Lastenheft und ein Pflichtenheft für ein Buchha
 
 Beispiel Pflichtenheft: Entwicklung eines Online-Banking-Systems
 
-1. Projektübersicht
+==== 1. Projektübersicht ====
 
 · Projektname: Entwicklung eines Online-Banking-Systems
 
@@ -149,7 +149,7 @@ Beispiel Pflichtenheft: Entwicklung eines Online-Banking-Systems
 
 · Projektziel: Erstellung einer sicheren und benutzerfreundlichen Online-Banking-Plattform, die Kunden den Zugriff auf ihre Konten, das Durchführen von Überweisungen und die Verwaltung von Finanzen ermöglicht.
 
-2. Ausgangssituation und Zielsetzung
+==== 2. Ausgangssituation und Zielsetzung ====
 
 · Ist-Zustand: Die XYZ Bank verfügt derzeit über kein Online-Banking-System. Kunden müssen Filialen besuchen oder telefonisch Transaktionen durchführen.
 
@@ -157,9 +157,9 @@ Beispiel Pflichtenheft: Entwicklung eines Online-Banking-Systems
 
 · Projektziel: Das neue System soll innerhalb von 12 Monaten entwickelt und implementiert werden, mit einer hohen Priorität auf Sicherheit, Benutzerfreundlichkeit und Verfügbarkeit.
 
-3. Systemanforderungen
+==== 3. Systemanforderungen ====
 
-· Funktionale Anforderungen:
+=== · Funktionale Anforderungen: ===
 
 o Benutzerverwaltung: Registrierung, Login, Passwort-Wiederherstellung.
 
@@ -171,7 +171,7 @@ o Sicherheit: Zwei-Faktor-Authentifizierung, Verschlüsselung aller Datenübertr
 
 o Benachrichtigungen: E-Mail- und SMS-Benachrichtigungen für Transaktionen und Sicherheitswarnungen.
 
-· Nicht-funktionale Anforderungen:
+=== · Nicht-funktionale Anforderungen: ===
 
 o Sicherheit: Erfüllung aller gesetzlichen Anforderungen an den Datenschutz (z.B. DSGVO).
 
@@ -181,33 +181,33 @@ o Performance: Ladezeiten von weniger als 2 Sekunden pro Seite.
 
 o Benutzerfreundlichkeit: Intuitive Benutzeroberfläche, die für Nutzer aller Altersgruppen geeignet ist.
 
-4. Projektphasen im Wasserfallmodell
+==== 4. Projektphasen im Wasserfallmodell ====
 
-· Anforderungsanalyse:
+=== · Anforderungsanalyse: ===
 
 o Sammlung und Dokumentation aller Anforderungen in enger Zusammenarbeit mit dem Kunden.
 
 o Erstellung des Pflichtenhefts und Genehmigung durch den Kunden.
 
-· Systemdesign:
+=== · Systemdesign: ===
 
 o Technische Spezifikationen für die Softwarearchitektur, Datenbankdesign, Benutzeroberflächen und Schnittstellen.
 
 o Sicherheitskonzept und Datenschutzmaßnahmen.
 
-· Implementierung:
+=== · Implementierung: ===
 
 o Programmierung des Online-Banking-Systems basierend auf den genehmigten Entwürfen.
 
 o Entwicklung von Frontend- und Backend-Komponenten.
 
-· Testen:
+=== · Testen: ===
 
 o Durchführung von Unit-Tests, Integrationstests und Systemtests.
 
 o Sicherheitstests zur Überprüfung der Datenschutz- und Sicherheitsanforderungen.
 
-· Einsatz/Einführung:
+=== · Einsatz/Einführung: ===
 
 o Pilotphase mit einer kleinen Benutzergruppe.
 
@@ -215,11 +215,11 @@ o Schulung von Mitarbeitern und Support-Teams.
 
 o Rollout des Systems für alle Kunden der Bank.
 
-· Wartung:
+=== · Wartung: ===
 
 o Laufende Überwachung des Systems, Fehlerbehebung und Bereitstellung von Updates.
 
-5. Akzeptanzkriterien
+==== 5. Akzeptanzkriterien ====
 
 · Funktionalität: Alle im Pflichtenheft aufgeführten Funktionen müssen einwandfrei arbeiten.
 
@@ -229,7 +229,7 @@ o Laufende Überwachung des Systems, Fehlerbehebung und Bereitstellung von Updat
 
 · Performance: Das System muss die geforderte Verfügbarkeit und Performance sicherstellen.
 
-6. Abnahmekriterien
+==== 6. Abnahmekriterien ====
 
 · Das System wird abgenommen, wenn alle Akzeptanzkriterien erfüllt sind und der Kunde das System erfolgreich getestet hat.
 
