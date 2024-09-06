@@ -6,3 +6,5 @@ Creation-Date: 2024-09-06T08:31:04+02:00
 
 Projektmanagment
 	KANBAN in Action
+	Einführung in GIT
+	
