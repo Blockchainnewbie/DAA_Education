@@ -1,7 +1,16 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
+<<<<<<< HEAD
 Creation-Date: 2024-09-06T08:31:12+02:00
 
 ====== Freitag 06 Sep 2024 ======
 Aus testezwecken erstellt 
 guten morgen leibe sorgen seid ihr auch schon alle da
+=======
+Creation-Date: 2024-09-06T08:31:04+02:00
+
+====== Freitag 06 Sep 2024 ======
+
+Projektmanagment
+	KANBAN in Action
+>>>>>>> 1ba11704815914e55bda2e1978fa7ab78187ec4d
