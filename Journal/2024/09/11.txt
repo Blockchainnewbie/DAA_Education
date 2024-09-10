@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-10T15:12:41+02:00
+
+====== Mittwoch 11 Sep 2024 ======
+
+	Netzwerkgrundlagen
