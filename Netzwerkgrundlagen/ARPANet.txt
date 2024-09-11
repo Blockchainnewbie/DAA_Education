@@ -15,8 +15,8 @@ Das ARPANET war das erste weit verbreitete Paketvermittlungsnetzwerk und gilt al
 
 === 1. **Entstehung**: ===
    - Das ARPANET wurde von der Advanced Research Projects Agency (ARPA), einer Abteilung des US-Verteidigungsministeriums, initiiert.
-   - Der Hauptzweck war es, ein robustes und dezentralisiertes Kommunikationsnetzwerk zu schaffen, das auch im Falle eines nuklearen Angriffs funktionsfähig bleiben würde.
-
+   - Der Hauptzweck war es, ein robustes und dezentralisiertes Kommunikationsnetzwerk zu schaffen, das auch im Falle eines nuklearen Angriffs 			funktionsfähig bleiben würde.
+	
 === 2. **Erste Verbindung**: ===
    - Am 29. Oktober 1969 wurde die erste Nachricht über das ARPANET gesendet. Diese Nachricht wurde von der University of California, Los Angeles (UCLA) an das Stanford Research Institute (SRI) gesendet.
    - Die Nachricht sollte "LOGIN" lauten, aber das System stürzte nach den ersten beiden Buchstaben "LO" ab. Dennoch war dies ein historischer Moment.
