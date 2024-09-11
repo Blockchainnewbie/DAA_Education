@@ -10,7 +10,7 @@ Natürlich! Lass uns mit einer einfachen und verständlichen Erklärung beginnen
 ===== Was ist ein Netzwerk? =====
 
 Ein Netzwerk ist eine Gruppe von miteinander verbundenen Geräten, die Daten und Ressourcen austauschen können. Diese Geräte können Computer, Smartphones, Tablets, Drucker, Server und viele andere elektronische Geräte sein. Das Netzwerk ermöglicht es diesen Geräten, miteinander zu kommunizieren und Informationen zu teilen.
-Es ermöglicht Datenaustausch, Kommunikation und hält eine Redundanz der Daten vor.
+Es ermöglicht Datenaustausch, dezentrale Datenhaltung, Kommunikation und hält eine Redundanz der Daten vor.
 
 ==== Wie funktioniert ein Netzwerk? ====
 
