@@ -5,28 +5,30 @@ Creation-Date: 2024-09-11T08:46:58+02:00
 ====== Einführung ======
 Angelegt Mittwoch 11 September 2024
 
-===== 1. Wofür und wo setzen wir Netzwerke ein? =====
-Netzwerke werden verwendet, um verschiedene Geräte miteinander zu verbinden, sodass sie Daten austauschen können. Dies kann in vielen verschiedenen Umgebungen geschehen, wie zum Beispiel:
+{{.\pasted_image.png}}
 
-Zuhause: Dein Heimnetzwerk verbindet deinen Computer, Smartphone, Smart-TV und andere Geräte mit dem Internet.
-Büro: In einem Unternehmen verbindet ein Netzwerk Computer, Drucker, Server und andere Geräte, um die Zusammenarbeit und den Datenaustausch zu ermöglichen.
-Schulen und Universitäten: Netzwerke ermöglichen es Studenten und Lehrern, auf Ressourcen zuzugreifen und miteinander zu kommunizieren.
-Krankenhäuser: Netzwerke verbinden medizinische Geräte, Computer und andere Systeme, um Patientendaten zu verwalten und zu teilen.
+===== 1. Wofür und wo setzen wir Netzwerke ein? =====
+Netzwerke werden verwendet, um verschiedene Geräte miteinander zu verbinden, sodass sie Daten austauschen können. Dies kann in vielen verschiedenen Umgebungen geschehen um gemeinsame Ressourcen zu teilen, wie zum Beispiel:
+
+**Zuhause:** Dein Heimnetzwerk verbindet deinen Computer, Smartphone, Smart-TV und andere Geräte mit dem Internet.
+**Büro:** In einem Unternehmen verbindet ein Netzwerk Computer, Drucker, Server und andere Geräte, um die Zusammenarbeit und den Datenaustausch zu ermöglichen.
+**Schulen und Universitäten:** Netzwerke ermöglichen es Studenten und Lehrern, auf Ressourcen zuzugreifen und miteinander zu kommunizieren.
+**Krankenhäuser:** Netzwerke verbinden medizinische Geräte, Computer und andere Systeme, um Patientendaten zu verwalten und zu teilen.
 
 ===== 2. Netzwerke bestehen aus drei Hauptbestandteilen: =====
 Die drei Hauptbestandteile eines Netzwerks sind:
 
-Hardware: Dies umfasst die physischen Geräte, die das Netzwerk bilden, wie Computer, Router, Switches, Kabel und andere Netzwerkgeräte.
-Software: Dies umfasst die Programme und Betriebssysteme, die auf den Netzwerkgeräten laufen, um die Kommunikation und den Datenaustausch zu ermöglichen.
-Protokolle: Dies sind die Regeln und Standards, die festlegen, wie Daten zwischen den Geräten im Netzwerk übertragen werden. Ein bekanntes Beispiel ist das TCP/IP-Protokoll, das das Internet ermöglicht.
+**Hardware:** Dies umfasst die physischen Geräte, die das Netzwerk bilden, wie Computer, Router, Switches, Kabel und andere Netzwerkgeräte.
+**Software:** Dies umfasst die Programme und Betriebssysteme, die auf den Netzwerkgeräten laufen, um die Kommunikation und den Datenaustausch zu ermöglichen.
+**Protokolle:** Dies sind die Regeln und Standards, die festlegen, wie Daten zwischen den Geräten im Netzwerk übertragen werden. Ein bekanntes Beispiel ist das TCP/IP-Protokoll, das das Internet ermöglicht.
 
 ===== 3. Es gibt zwei Arten von Netzwerken: =====
 Es gibt tatsächlich mehr als zwei Arten von Netzwerken, aber zwei der häufigsten sind:
 
-LAN (Local Area Network): Ein lokales Netzwerk, das sich in der Regel auf einen kleinen geografischen Bereich wie ein Haus, ein Büro oder eine Schule beschränkt. LANs bieten schnelle Datenübertragungsraten und sind oft privat.
-WAN (Wide Area Network): Ein weiträumiges Netzwerk, das sich über große geografische Bereiche erstreckt und oft mehrere LANs miteinander verbindet. Das bekannteste WAN ist das Internet.
+**LAN** (Local Area Network): Ein lokales Netzwerk, das sich in der Regel auf einen kleinen geografischen Bereich wie ein Haus, ein Büro oder eine Schule beschränkt. LANs bieten schnelle Datenübertragungsraten und sind oft privat.
+**WAN** (Wide Area Network): Ein weiträumiges Netzwerk, das sich über große geografische Bereiche erstreckt und oft mehrere LANs miteinander verbindet. Das bekannteste WAN ist das Internet.
 
 ===== Andere Arten von Netzwerken: =====
 
-MAN (Metropolitan Area Network): Ein Netzwerk, das sich über eine Stadt oder einen großen Campus erstreckt.
-PAN (Personal Area Network): Ein kleines Netzwerk, das sich auf den persönlichen Bereich eines Benutzers beschränkt, wie z.B. Bluetooth-Geräte.
+**MAN** (Metropolitan Area Network): Ein Netzwerk, das sich über eine Stadt oder einen großen Campus erstreckt.
+**PAN** (Personal Area Network): Ein kleines Netzwerk, das sich auf den persönlichen Bereich eines Benutzers beschränkt, wie z.B. Bluetooth-Geräte.
