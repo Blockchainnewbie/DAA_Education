@@ -26,6 +26,8 @@ Die drei Hauptbestandteile eines Netzwerks sind:
 ===== 3. Es gibt zwei Arten von Netzwerken: =====
 Es gibt tatsächlich mehr als zwei Arten von Netzwerken, aber zwei der häufigsten sind:
 
+**Schaltkreisvermittlung: (circuit switching)** > damals > Telefonleitung
+**Paketvermittlung:(palet switching)** > Netzwerke, Internet, VoiP
 **LAN** (Local Area Network): Ein lokales Netzwerk, das sich in der Regel auf einen kleinen geografischen Bereich wie ein Haus, ein Büro oder eine Schule beschränkt. LANs bieten schnelle Datenübertragungsraten und sind oft privat.
 **WAN** (Wide Area Network): Ein weiträumiges Netzwerk, das sich über große geografische Bereiche erstreckt und oft mehrere LANs miteinander verbindet. Das bekannteste WAN ist das Internet.
 
