@@ -20,7 +20,8 @@ Die drei Hauptbestandteile eines Netzwerks sind:
 
 **Hardware:** Dies umfasst die physischen Geräte, die das Netzwerk bilden, wie Computer, Router, Switches, Kabel und andere Netzwerkgeräte.
 **Software:** Dies umfasst die Programme und Betriebssysteme, die auf den Netzwerkgeräten laufen, um die Kommunikation und den Datenaustausch zu ermöglichen.
-**Protokolle:** Dies sind die Regeln und Standards, die festlegen, wie Daten zwischen den Geräten im Netzwerk übertragen werden. Ein bekanntes Beispiel ist das TCP/IP-Protokoll, das das Internet ermöglicht.
+**Protokolle: Dies sind die Regeln und Standards**, die festlegen, wie Daten zwischen den Geräten im Netzwerk übertragen werden. Ein bekanntes Beispiel ist das TCP/IP-Protokoll, das das Internet ermöglicht.
+**Anwendungsgebiete:** Datenaustausch/Kommunkation
 
 ===== 3. Es gibt zwei Arten von Netzwerken: =====
 Es gibt tatsächlich mehr als zwei Arten von Netzwerken, aber zwei der häufigsten sind:
