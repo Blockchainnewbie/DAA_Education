@@ -17,36 +17,36 @@ Das ARPANET war das erste weit verbreitete Paketvermittlungsnetzwerk und gilt al
    - Das ARPANET wurde von der Advanced Research Projects Agency (ARPA), einer Abteilung des US-Verteidigungsministeriums, initiiert.
    - Der Hauptzweck war es, ein robustes und dezentralisiertes Kommunikationsnetzwerk zu schaffen, das auch im Falle eines nuklearen Angriffs funktionsfähig bleiben würde.
 
-2. **Erste Verbindung**:
+=== 2. **Erste Verbindung**: ===
    - Am 29. Oktober 1969 wurde die erste Nachricht über das ARPANET gesendet. Diese Nachricht wurde von der University of California, Los Angeles (UCLA) an das Stanford Research Institute (SRI) gesendet.
    - Die Nachricht sollte "LOGIN" lauten, aber das System stürzte nach den ersten beiden Buchstaben "LO" ab. Dennoch war dies ein historischer Moment.
 
-3. **Erweiterung**:
+=== 3. **Erweiterung**: ===
    - In den folgenden Jahren wuchs das ARPANET schnell und verband immer mehr Universitäten, Forschungseinrichtungen und militärische Einrichtungen.
    - Bis 1972 waren bereits 37 Knoten im ARPANET verbunden.
 
-### Technologische Innovationen
-
-1. **Paketvermittlung**:
+==== Technologische Innovationen ====
+=== = ===
+=== 1. **Paketvermittlung**: ===
    - Das ARPANET nutzte die Technologie der Paketvermittlung, bei der Daten in kleine Pakete aufgeteilt und über das Netzwerk gesendet werden. Diese Pakete können unterschiedliche Wege nehmen und werden am Ziel wieder zusammengesetzt.
    - Diese Technologie ermöglichte eine effiziente und zuverlässige Datenübertragung.
 
-2. **TCP/IP-Protokoll**:
+=== 2. **TCP/IP-Protokoll**: ===
    - In den 1970er Jahren wurde das TCP/IP-Protokoll (Transmission Control Protocol/Internet Protocol) entwickelt, das die Grundlage für das heutige Internet bildet.
    - Das ARPANET war eines der ersten Netzwerke, das TCP/IP einsetzte.
 
 ### Bedeutung und Vermächtnis
 
-1. **Grundlage des Internets**:
+=== 1. **Grundlage des Internets**: ===
    - Das ARPANET legte den Grundstein für das heutige Internet. Viele der Technologien und Protokolle, die im ARPANET entwickelt wurden, werden noch heute verwendet.
 
-2. **Förderung der Zusammenarbeit**:
+=== 2. **Förderung der Zusammenarbeit**: ===
    - Das ARPANET ermöglichte es Forschern und Wissenschaftlern, über große Entfernungen hinweg zusammenzuarbeiten und Informationen auszutauschen.
 
-3. **Innovationen**:
+=== 3. **Innovationen**: ===
    - Viele der heute alltäglichen Technologien, wie E-Mail, FTP (File Transfer Protocol) und Telnet, wurden im ARPANET entwickelt und getestet.
 
-### Zusammenfassung
+==== Zusammenfassung ====
 
 Das ARPANET war ein revolutionäres Netzwerk, das die Grundlage für das moderne Internet schuf. Es förderte die Zusammenarbeit zwischen Forschern und Wissenschaftlern und führte zu zahlreichen technologischen Innovationen, die noch heute von großer Bedeutung sind.
 
