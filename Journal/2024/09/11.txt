@@ -5,3 +5,11 @@ Creation-Date: 2024-09-10T15:12:41+02:00
 ====== Mittwoch 11 Sep 2024 ======
 
 	Netzwerkgrundlagen
+		Was sind Netzwerke?
+		ARPANET
+		IPv4/IPv6
+		Protokolle
+		TCP/IP
+		UDP
+		
+
