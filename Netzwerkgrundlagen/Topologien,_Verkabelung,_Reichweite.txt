@@ -2,10 +2,6 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2024-09-16T08:44:20+02:00
 
-====== Topologien, Verkabelung, Reichweite ======
-Angelegt Montag 16 September 2024
-
-
 	Natürlich, hier ist eine Übersicht über Netzwerktopologien, strukturierte Verkabelung sowie die Klassifizierung und Reichweite der verschiedenen Netzwerktechnologien.
 
 ===== Netzwerktopologien =====
@@ -51,7 +47,7 @@ Angelegt Montag 16 September 2024
 	5. **GAN (Global Area Network):**
 	GANs erstrecken sich über den gesamten Globus und verbinden mehrere WANs miteinander. Das Internet ist auch ein Beispiel für ein GAN.
 
-===== Reichweite der Netzwerktechnologien =====
+	Reichweite der Netzwerktechnologien
 
 	1. **Ethernet:**
 	Ethernet ist die am häufigsten verwendete LAN-Technologie. Die Reichweite für Standard-Ethernet beträgt bis zu 100 Meter pro Segment.
