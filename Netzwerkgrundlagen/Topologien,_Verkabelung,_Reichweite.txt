@@ -34,7 +34,7 @@ Angelegt Montag 16 September 2024
 	- **Zuverlässigkeit:** Bietet stabile und zuverlässige Verbindungen.
 	- **Effizienz:** Reduziert Installations- und Wartungskosten durch standardisierte Komponenten.
 
-	### Klassifizierung der Netzwerke
+===== Klassifizierung der Netzwerke =====
 
 	1. **PAN (Personal Area Network):**
 	PANs sind kleine Netzwerke, die Geräte in einem Umkreis von etwa 10 Metern verbinden. Beispiele sind Bluetooth- und ZigBee-Netzwerke.
@@ -51,7 +51,7 @@ Angelegt Montag 16 September 2024
 	5. **GAN (Global Area Network):**
 	GANs erstrecken sich über den gesamten Globus und verbinden mehrere WANs miteinander. Das Internet ist auch ein Beispiel für ein GAN.
 
-	### Reichweite der Netzwerktechnologien
+===== Reichweite der Netzwerktechnologien =====
 
 	1. **Ethernet:**
 	Ethernet ist die am häufigsten verwendete LAN-Technologie. Die Reichweite für Standard-Ethernet beträgt bis zu 100 Meter pro Segment.
@@ -67,7 +67,4 @@ Angelegt Montag 16 September 2024
 
 	5. **Cellular Networks:**
 	Mobilfunknetze bieten Reichweiten von mehreren Kilometern, abhängig von der Technologie (3G, 4G, 5G) und der Netzabdeckung.
-
-	---
-
-	Ich hoffe, diese Übersicht ist hilfreich und verständlich. Bei weiteren Fragen stehe ich gerne zur Verfügung!
+	
