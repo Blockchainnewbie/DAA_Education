@@ -1,0 +1,73 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-16T08:44:20+02:00
+
+====== Topologien, Verkabelung, Reichweite ======
+Angelegt Montag 16 September 2024
+
+
+	Natürlich, hier ist eine Übersicht über Netzwerktopologien, strukturierte Verkabelung sowie die Klassifizierung und Reichweite der verschiedenen Netzwerktechnologien.
+
+===== Netzwerktopologien =====
+
+	1. **Bus-Topologie:**
+	In der Bus-Topologie sind alle Geräte mit einem einzigen Kabel verbunden, dem sogenannten Bus. Daten werden in beide Richtungen entlang des Kabels gesendet, und jedes Gerät hört alle Übertragungen. Diese Topologie ist einfach und kostengünstig, hat jedoch den Nachteil, dass ein Kabelausfall das gesamte Netzwerk lahmlegt.
+
+	2. **Ring-Topologie:**
+	In der Ring-Topologie sind die Geräte in einer geschlossenen Schleife verbunden. Daten werden in eine Richtung gesendet, und jedes Gerät verstärkt und leitet die Daten weiter, bis sie ihr Ziel erreichen. Ein Nachteil dieser Topologie ist, dass ein Ausfall eines einzelnen Geräts das Netzwerk unterbrechen kann.
+
+	3. **Stern-Topologie:**
+	In der Stern-Topologie sind alle Geräte mit einem zentralen Knoten (Hub oder Switch) verbunden. Daten fließen vom Knoten zu den Geräten und umgekehrt. Diese Topologie bietet hohe Ausfallsicherheit, da ein Ausfall eines Geräts oder Kabels das restliche Netzwerk nicht beeinträchtigt. Der zentrale Knoten ist jedoch ein potenzieller Schwachpunkt.
+
+	4. **Maschen-Topologie:**
+	In der Maschen-Topologie ist jedes Gerät mit mehreren anderen Geräten verbunden. Dies ermöglicht mehrere Datenpfade und bietet hohe Redundanz und Ausfallsicherheit. Diese Topologie ist jedoch komplex und kostspielig in der Implementierung.
+
+	5. **Baum-Topologie:**
+	Die Baum-Topologie ist eine Kombination aus Stern- und Bus-Topologie. Sie hat eine hierarchische Struktur, bei der mehrere Stern-Topologien über einen Hauptbus verbunden sind. Dies ermöglicht eine einfache Erweiterung des Netzwerks und eine zentrale Verwaltung.
+
+===== Strukturierte Verkabelung =====
+
+	Strukturierte Verkabelung bezieht sich auf ein standardisiertes System der Gebäudeverkabelung, das Daten-, Sprach- und Videoübertragungen unterstützt. Es umfasst mehrere subsystems, darunter Backbone-Verkabelung, horizontale Verkabelung, Arbeitsbereiche und Telekommunikationsräume.
+
+	**Vorteile der strukturierten Verkabelung:**
+	- **Flexibilität:** Ermöglicht einfache Erweiterung und Änderung des Netzwerks.
+	- **Zuverlässigkeit:** Bietet stabile und zuverlässige Verbindungen.
+	- **Effizienz:** Reduziert Installations- und Wartungskosten durch standardisierte Komponenten.
+
+	### Klassifizierung der Netzwerke
+
+	1. **PAN (Personal Area Network):**
+	PANs sind kleine Netzwerke, die Geräte in einem Umkreis von etwa 10 Metern verbinden. Beispiele sind Bluetooth- und ZigBee-Netzwerke.
+
+	2. **LAN (Local Area Network):**
+	LANs decken ein kleineres geografisches Gebiet wie ein Büro oder ein Gebäude ab. Sie bieten hohe Geschwindigkeiten und ermöglichen den Anschluss vieler Geräte.
+
+	3. **MAN (Metropolitan Area Network):**
+	MANs erstrecken sich über eine Stadt oder eine größere Region. Sie sind größer als LANs, bieten jedoch ähnliche Geschwindigkeiten.
+
+	4. **WAN (Wide Area Network):**
+	WANs decken große geografische Gebiete ab, wie Länder oder Kontinente. Das bekannteste Beispiel für ein WAN ist das Internet.
+
+	5. **GAN (Global Area Network):**
+	GANs erstrecken sich über den gesamten Globus und verbinden mehrere WANs miteinander. Das Internet ist auch ein Beispiel für ein GAN.
+
+	### Reichweite der Netzwerktechnologien
+
+	1. **Ethernet:**
+	Ethernet ist die am häufigsten verwendete LAN-Technologie. Die Reichweite für Standard-Ethernet beträgt bis zu 100 Meter pro Segment.
+
+	2. **Wi-Fi:**
+	Wi-Fi-Netzwerke haben eine Reichweite von etwa 30 Metern im Innenbereich und bis zu 100 Metern im Freien, abhängig von Umweltfaktoren und Hindernissen.
+
+	3. **Bluetooth:**
+	Bluetooth hat eine typische Reichweite von etwa 10 Metern, kann jedoch in speziellen Anwendungen bis zu 100 Meter erreichen.
+
+	4. **Fibre Optic:**
+	Glasfaserkabel bieten sehr hohe Reichweiten und Geschwindigkeiten. Sie können Distanzen von bis zu 100 Kilometern ohne Signalverstärkung überbrücken.
+
+	5. **Cellular Networks:**
+	Mobilfunknetze bieten Reichweiten von mehreren Kilometern, abhängig von der Technologie (3G, 4G, 5G) und der Netzabdeckung.
+
+	---
+
+	Ich hoffe, diese Übersicht ist hilfreich und verständlich. Bei weiteren Fragen stehe ich gerne zur Verfügung!
