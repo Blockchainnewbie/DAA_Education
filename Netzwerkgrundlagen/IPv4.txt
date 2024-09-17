@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-17T14:22:36+02:00
+
+====== IPv4 ======
+Angelegt Dienstag 17 September 2024
+
+Der Abschnitt erklärt die IP-Adressierung mit IPv4 und MAC-Adressen sowie deren Bedeutung in Netzwerken. Hier die wichtigsten Punkte:
+
+1. **IPv4-Adressen** sind 32-Bit-Binärzahlen, die üblicherweise im "Dotted-Decimal-Format" dargestellt werden, z.B. 193.96.1.200. Jede Netzwerk-Schnittstelle muss eine eindeutige IP-Adresse erhalten.
+
+2. **MAC-Adressen** sind 48-Bit-Hardware-Adressen, die weltweit eindeutig sind und jeder Netzwerkschnittstelle zugewiesen werden. Sie bestehen aus einem Herstelleranteil (erste 3 Bytes) und einer fortlaufenden Nummer (letzte 3 Bytes).
+
+3. **Subnetzmaske** definiert den Übergang zwischen Netzwerk-ID und Host-ID in einer IP-Adresse. Sie maskiert Teile der IP-Adresse und gibt an, wie viele Bits zur Netz-ID und zur Host-ID gehören. 
+
+4. **IP-Adressen und Netzwerke**: Die Netz-ID (wie die Vorwahl einer Telefonnummer) kennzeichnet das Netzwerk, und die Host-ID (wie eine Teilnehmernummer) identifiziert einzelne Geräte im Netzwerk.
+
+5. **IP-Adressklassen** (A, B, C) wurden früher verwendet, aber diese Methode wurde durch **CIDR (Classless Inter-Domain Routing)** ersetzt, um effizienter mit IP-Adressen umzugehen, da viele Adressen verschwendet wurden.
+
+6. **CIDR** ermöglicht flexiblere Adressierung durch Subnetting, indem die Grenze zwischen Netzwerk- und Hostanteil der Adresse verschoben wird.
+
+Insgesamt behandelt der Abschnitt die grundlegende Struktur und Zuweisung von IP- und MAC-Adressen in Netzwerken und die Methoden zur effizienteren Nutzung von IPv4-Adressen.
+

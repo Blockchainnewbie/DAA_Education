@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-17T14:23:20+02:00
+
+====== Subnetting ======
+Angelegt Dienstag 17 September 2024
+
+Subnetting ist eine Technik, um ein großes Netzwerk in kleinere, logische Netzwerke zu unterteilen. Diese kleineren Netzwerke werden als Subnets bezeichnet. Dadurch kann man effizienter mit IP-Adressen umgehen und Netzwerke besser strukturieren.
+
+Ein Subnet entsteht, wenn man die IP-Adresse in zwei Teile teilt:
+
+Netzwerkanteil (Netz-ID): Gibt an, zu welchem Netzwerk das Gerät gehört.
+Hostanteil (Host-ID): Identifiziert die einzelnen Geräte innerhalb dieses Netzwerks.
+Die Subnetzmaske spielt dabei eine zentrale Rolle. Sie zeigt, wie viele Bits zur Netz-ID und wie viele zur Host-ID gehören.
+
+Beispiel 1: Einfaches Subnetting
+Stell dir vor, du hast ein Netzwerk mit der IP-Adresse 192.168.1.0 und einer Standard-Subnetzmaske 255.255.255.0. Dies bedeutet:
+
+192.168.1.0 ist die Netz-ID (die ersten 24 Bits).
+Die letzten 8 Bits sind für die Hosts reserviert, was bis zu 254 Geräte im Netzwerk ermöglicht (2^8 - 2, da die erste und letzte Adresse für Netzwerk- und Broadcast-Adressen reserviert sind).
+Du willst das Netzwerk jetzt in zwei kleinere Subnets unterteilen. Dafür änderst du die Subnetzmaske von 255.255.255.0 auf 255.255.255.128 (oder /25 in CIDR). Das bedeutet:
+
+Die ersten 25 Bits gehören jetzt zur Netz-ID.
+Die restlichen 7 Bits bleiben für die Hosts.
+Das resultiert in zwei Subnets:
+
+192.168.1.0/25 (Hosts von 192.168.1.1 bis 192.168.1.126)
+192.168.1.128/25 (Hosts von 192.168.1.129 bis 192.168.1.254)
+In jedem dieser Subnets können nun jeweils 126 Hosts sein, statt alle in einem großen Netz zu belassen.
+
+Beispiel 2: Tieferes Subnetting
+Angenommen, du möchtest ein Netzwerk mit der IP 10.0.0.0 und einer Standard-Subnetzmaske 255.0.0.0 in kleinere Subnets unterteilen. Standardmäßig hättest du hier 16,777,214 Hosts (2^24 - 2).
+
+Du änderst die Subnetzmaske auf 255.255.0.0 (oder /16 in CIDR). Das bedeutet, dass die ersten 16 Bits für die Netz-ID reserviert sind. Jetzt hast du viele kleinere Subnetze, aber jedes kann bis zu 65.534 Hosts beinhalten.
+
+Wenn du die Subnetzmaske weiter auf 255.255.255.0 (oder /24 in CIDR) änderst, dann hast du viele Subnetze mit jeweils bis zu 254 Hosts.
+
+Zusammengefasst:
+Subnetting teilt ein großes Netzwerk in kleinere Subnets auf.
+Die Subnetzmaske definiert, wie viele Bits für das Netzwerk und wie viele für die Hosts verwendet werden.
+CIDR vereinfacht die Darstellung, z.B. 192.168.1.0/25.
+Durch Subnetting kannst du Netzwerkressourcen besser verwalten und die Kommunikation zwischen Geräten optimieren.
+Das bietet Flexibilität und ermöglicht es, Netzwerke an spezifische Anforderungen anzupassen.
