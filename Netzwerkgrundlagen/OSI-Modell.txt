@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-19T09:23:04+02:00
+
+====== OSI-Modell ======
+Angelegt Donnerstag 19 September 2024
+
+Das OSI-Modell (Open Systems Interconnection Model) ist ein konzeptionelles Rahmenwerk, das die Kommunikation in einem Netzwerk in sieben verschiedene Schichten unterteilt. Jede Schicht hat spezifische Funktionen und kommuniziert mit den Schichten direkt darüber und darunter.
+
+Hier ist eine Übersicht der sieben Schichten des OSI-Modells:
+
+1. **Schicht 1: Physikalische Schicht (Physical Layer)**
+   - Zuständig für die Übertragung von Bits über ein physikalisches Medium (z. B. Kabel, Funk).
+   - Beispiele: Ethernet-Kabel, Netzwerkkarten, Hubs.
+
+2. **Schicht 2: Sicherungsschicht (Data Link Layer)**
+   - Regelt die physikalische Adressierung und Fehlererkennung/-korrektur.
+   - Teilt Daten in Frames auf und steuert den Zugriff auf das Übertragungsmedium.
+   - Beispiele: MAC-Adressen, Switches, Bridges.
+
+3. **Schicht 3: Netzwerkschicht (Network Layer)**
+   - Verantwortlich für die logische Adressierung und das Routing von Datenpaketen.
+   - Bestimmt den besten Pfad zur Datenübertragung.
+   - Beispiele: IP-Adressen, Router.
+
+4. **Schicht 4: Transportschicht (Transport Layer)**
+   - Gewährleistet eine zuverlässige Datenübertragung zwischen Endsystemen.
+   - Segmentiert Daten und stellt sicher, dass die Segmente in der richtigen Reihenfolge ankommen.
+   - Beispiele: TCP (Transmission Control Protocol), UDP (User Datagram Protocol).
+
+5. **Schicht 5: Sitzungsschicht (Session Layer)**
+   - Verwaltet und steuert die Dialoge (Sitzungen) zwischen zwei Geräten.
+   - Zuständig für Verbindungsaufbau, -steuerung und -abbau.
+   - Beispiele: NetBIOS, RPC (Remote Procedure Call).
+
+6. **Schicht 6: Darstellungsschicht (Presentation Layer)**
+   - Übersetzt Daten zwischen dem Anwendungs- und dem Netzwerkformat.
+   - Kümmert sich um Datenkompression, Verschlüsselung und Formatkonvertierung.
+   - Beispiele: SSL/TLS, JPEG, ASCII.
+
+7. **Schicht 7: Anwendungsschicht (Application Layer)**
+   - Bietet Netzwerkanwendungen und Schnittstellen für die Kommunikation.
+   - stellt Funktionen für Endbenutzeranwendungen bereit.
+   - Beispiele: HTTP, FTP, SMTP, DNS.
+
+Das OSI-Modell hilft uns, Netzwerkprotokolle und -dienste zu verstehen und Probleme zu diagnostizieren, indem es die Kommunikation in überschaubare und standardisierte Schichten aufteilt.
